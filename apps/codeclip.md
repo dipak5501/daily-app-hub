@@ -1,0 +1,8 @@
+# Code Snippet Clipper and Organizer
+
+**Live tunnel:** https://isbn-urge-disclaimers-grade.trycloudflare.com
+
+- Local: http://127.0.0.1:8788/
+- Source: https://github.com/dipak5501/codeclip-app
+- Last feature: real local snippet desk (CRUD, tags, search, export)
+- Link updated: 2026-10-22T21:44:31.123Z

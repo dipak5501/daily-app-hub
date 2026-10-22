@@ -1,0 +1,23 @@
+{
+  "updatedAt": "2026-10-22T21:44:31.123Z",
+  "apps": [
+    {
+      "slug": "clearinstall",
+      "title": "ClearInstall",
+      "repo": "dipak5501/clearinstall",
+      "url": "https://armor-pan-engaging-transmitted.trycloudflare.com",
+      "port": 8787,
+      "lastFeature": "npm ignore-scripts hardening checklist",
+      "updatedAt": "2026-10-22T21:44:31.121Z"
+    },
+    {
+      "slug": "codeclip",
+      "title": "Code Snippet Clipper and Organizer",
+      "repo": "dipak5501/codeclip-app",
+      "url": "https://isbn-urge-disclaimers-grade.trycloudflare.com",
+      "port": 8788,
+      "lastFeature": "real local snippet desk (CRUD, tags, search, export)",
+      "updatedAt": "2026-10-22T21:44:31.123Z"
+    }
+  ]
+}
