@@ -4,5 +4,5 @@
 
 - Local: http://127.0.0.1:8787/
 - Source: https://github.com/dipak5501/clearinstall
-- Last feature: Enhancing ClearInstall with Trend Signals
+- Last feature: Enhancing ClearInstall with Public Trend Signals
 - Link updated: 2026-10-22T21:44:40.643Z
