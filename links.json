@@ -7,7 +7,7 @@
       "repo": "dipak5501/clearinstall",
       "url": "https://division-smell-midlands-were.trycloudflare.com",
       "port": 8787,
-      "lastFeature": "Enhancing ClearInstall with Public Trend Signals",
+      "lastFeature": "Enhance ClearInstall with Real-Time Risk Assessment",
       "updatedAt": "2026-10-22T21:44:40.643Z"
     },
     {
@@ -16,7 +16,7 @@
       "repo": "dipak5501/codeclip-app",
       "url": "https://bidder-wishes-fingers-transport.trycloudflare.com",
       "port": 8788,
-      "lastFeature": "Enhance CodeClip with Public Trend Signals",
+      "lastFeature": "Enhance CodeClip with AI Integration",
       "updatedAt": "2026-10-22T21:44:40.651Z"
     },
     {
@@ -25,8 +25,8 @@
       "repo": "dipak5501/localwiki-explorer",
       "url": null,
       "port": 8789,
-      "lastFeature": "Enhancing Local Wiki Explorer with Public Trend Signals",
-      "updatedAt": "2026-10-25T13:18:46.562Z"
+      "lastFeature": "Enhance Local Wiki Explorer with Public Trend Signals",
+      "updatedAt": "2026-10-25T16:00:35.550Z"
     },
     {
       "slug": "local-music",
@@ -35,7 +35,16 @@
       "url": null,
       "port": 8790,
       "lastFeature": "Enhance Local Music Explorer",
-      "updatedAt": "2026-10-25T13:19:43.676Z"
+      "updatedAt": "2026-10-25T16:01:29.039Z"
+    },
+    {
+      "slug": "local-crypto",
+      "title": "Local Crypto Tracker",
+      "repo": "dipak5501/crypto-tracker-local",
+      "url": null,
+      "port": 8791,
+      "lastFeature": "Enhance Local Crypto Tracker with Public Trend Signals",
+      "updatedAt": "2026-10-25T16:20:19.553Z"
     }
   ]
 }

@@ -12,6 +12,7 @@ Open any link below from **any network / phone / laptop**. No VPN required.
 | **Code Snippet Clipper and Organizer** | [Open](https://bidder-wishes-fingers-transport.trycloudflare.com) <br><code>https://bidder-wishes-fingers-transport.trycloudflare.com</code> | 8788 | [`dipak5501/codeclip-app`](https://github.com/dipak5501/codeclip-app) |
 | **Local Wiki Explorer** | _starting…_ <br><code></code> | 8789 | [`dipak5501/localwiki-explorer`](https://github.com/dipak5501/localwiki-explorer) |
 | **Local Music Explorer** | _starting…_ <br><code></code> | 8790 | [`dipak5501/local-music-explorer`](https://github.com/dipak5501/local-music-explorer) |
+| **Local Crypto Tracker** | _starting…_ <br><code></code> | 8791 | [`dipak5501/crypto-tracker-local`](https://github.com/dipak5501/crypto-tracker-local) |
 
 ## Notes
 
