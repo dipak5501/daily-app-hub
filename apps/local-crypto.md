@@ -1,6 +1,10 @@
 # Local Crypto Tracker
 
-**Live tunnel:** https://manitoba-finger-earrings-tourist.trycloudflare.com
+## Open this app
+
+https://manitoba-finger-earrings-tourist.trycloudflare.com
+
+[Click here to open](https://manitoba-finger-earrings-tourist.trycloudflare.com)
 
 - Local: http://127.0.0.1:8791/
 - Source: https://github.com/dipak5501/crypto-tracker-local

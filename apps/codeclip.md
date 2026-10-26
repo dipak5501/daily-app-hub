@@ -1,6 +1,10 @@
 # Code Snippet Clipper and Organizer
 
-**Live tunnel:** https://knights-bristol-lucas-cadillac.trycloudflare.com
+## Open this app
+
+https://knights-bristol-lucas-cadillac.trycloudflare.com
+
+[Click here to open](https://knights-bristol-lucas-cadillac.trycloudflare.com)
 
 - Local: http://127.0.0.1:8788/
 - Source: https://github.com/dipak5501/codeclip-app
