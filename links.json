@@ -1,59 +1,59 @@
 {
-  "updatedAt": "2026-10-26T21:45:34.258Z",
+  "updatedAt": "2026-10-26T22:29:54.107Z",
   "apps": [
     {
       "slug": "clearinstall",
       "title": "ClearInstall",
       "repo": "dipak5501/clearinstall",
-      "url": "https://pink-expected-production-studios.trycloudflare.com",
+      "url": "https://artistic-highs-lighter-sec.trycloudflare.com",
       "port": 8787,
       "lastFeature": "Enhance ClearInstall with Real-Time Dependency Analysis",
-      "updatedAt": "2026-10-26T21:45:34.214Z"
+      "updatedAt": "2026-10-26T22:29:54.086Z"
     },
     {
       "slug": "codeclip",
       "title": "Code Snippet Clipper and Organizer",
       "repo": "dipak5501/codeclip-app",
-      "url": "https://knights-bristol-lucas-cadillac.trycloudflare.com",
+      "url": "https://logan-hill-boards-randy.trycloudflare.com",
       "port": 8788,
       "lastFeature": "Enhance CodeClip with AI and User Interaction Improvements",
-      "updatedAt": "2026-10-26T21:45:34.236Z"
+      "updatedAt": "2026-10-26T22:29:54.089Z"
     },
     {
       "slug": "local-wiki",
       "title": "Local Wiki Explorer",
       "repo": "dipak5501/localwiki-explorer",
-      "url": "https://attachment-curriculum-attend-teacher.trycloudflare.com",
+      "url": "https://soldier-suggestion-thy-pixel.trycloudflare.com",
       "port": 8789,
       "lastFeature": "Enhance Local Wiki Explorer with Public Trend Signals",
-      "updatedAt": "2026-10-26T21:45:34.241Z"
+      "updatedAt": "2026-10-26T22:29:54.090Z"
     },
     {
       "slug": "local-music",
       "title": "Local Music Explorer",
       "repo": "dipak5501/local-music-explorer",
-      "url": "https://called-stockings-nodes-interpretation.trycloudflare.com",
+      "url": "https://fold-walter-remarkable-medicines.trycloudflare.com",
       "port": 8790,
       "lastFeature": "Enhance Local Music Explorer",
-      "updatedAt": "2026-10-26T21:45:34.245Z"
+      "updatedAt": "2026-10-26T22:29:54.096Z"
     },
     {
       "slug": "local-crypto",
       "title": "Local Crypto Tracker",
       "repo": "dipak5501/crypto-tracker-local",
-      "url": "https://manitoba-finger-earrings-tourist.trycloudflare.com",
+      "url": "https://scuba-economies-behaviour-temporary.trycloudflare.com",
       "port": 8791,
       "lastFeature": "Enhance Local Crypto Tracker with Public Trend Signals",
-      "updatedAt": "2026-10-26T21:45:34.252Z"
+      "updatedAt": "2026-10-26T22:29:54.100Z"
     },
     {
       "slug": "local-artists",
       "title": "Local Artists Directory",
       "repo": "dipak5501/local-artists-directory",
-      "url": "https://hung-earrings-nashville-positions.trycloudflare.com",
+      "url": "https://millions-cube-seventh-necklace.trycloudflare.com",
       "port": 8792,
       "lastFeature": "Enhance Local Artists Directory with Public Trend Signals",
-      "updatedAt": "2026-10-26T21:45:34.257Z"
+      "updatedAt": "2026-10-26T22:29:54.106Z"
     }
   ]
 }
