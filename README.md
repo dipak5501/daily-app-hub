@@ -13,6 +13,7 @@ Open any link below from **any network / phone / laptop**. No VPN required.
 | **Local Wiki Explorer** | _starting…_ <br><code></code> | 8789 | [`dipak5501/localwiki-explorer`](https://github.com/dipak5501/localwiki-explorer) |
 | **Local Music Explorer** | _starting…_ <br><code></code> | 8790 | [`dipak5501/local-music-explorer`](https://github.com/dipak5501/local-music-explorer) |
 | **Local Crypto Tracker** | _starting…_ <br><code></code> | 8791 | [`dipak5501/crypto-tracker-local`](https://github.com/dipak5501/crypto-tracker-local) |
+| **Local Artists Directory** | _starting…_ <br><code></code> | 8792 | [`dipak5501/local-artists-directory`](https://github.com/dipak5501/local-artists-directory) |
 
 ## Notes
 

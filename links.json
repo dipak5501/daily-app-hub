@@ -7,7 +7,7 @@
       "repo": "dipak5501/clearinstall",
       "url": "https://division-smell-midlands-were.trycloudflare.com",
       "port": 8787,
-      "lastFeature": "Enhance ClearInstall with Real-Time Dependency Analysis",
+      "lastFeature": "Enhance ClearInstall with Real-Time Risk Assessment",
       "updatedAt": "2026-10-22T21:44:40.643Z"
     },
     {
@@ -26,7 +26,7 @@
       "url": null,
       "port": 8789,
       "lastFeature": "Enhance Local Wiki Explorer with Public Trend Signals",
-      "updatedAt": "2026-10-26T13:32:21.979Z"
+      "updatedAt": "2026-10-26T16:00:39.452Z"
     },
     {
       "slug": "local-music",
@@ -34,8 +34,8 @@
       "repo": "dipak5501/local-music-explorer",
       "url": null,
       "port": 8790,
-      "lastFeature": "Enhance Local Music Explorer",
-      "updatedAt": "2026-10-26T13:33:11.836Z"
+      "lastFeature": "Enhance Local Music Explorer with Public Trend Signals",
+      "updatedAt": "2026-10-26T16:01:35.098Z"
     },
     {
       "slug": "local-crypto",
@@ -44,7 +44,16 @@
       "url": null,
       "port": 8791,
       "lastFeature": "Enhance Local Crypto Tracker with Public Trend Signals",
-      "updatedAt": "2026-10-26T13:33:30.844Z"
+      "updatedAt": "2026-10-26T16:01:55.120Z"
+    },
+    {
+      "slug": "local-artists",
+      "title": "Local Artists Directory",
+      "repo": "dipak5501/local-artists-directory",
+      "url": null,
+      "port": 8792,
+      "lastFeature": "Enhance Local Artists Directory with Public Trend Signals",
+      "updatedAt": "2026-10-26T16:34:08.825Z"
     }
   ]
 }
