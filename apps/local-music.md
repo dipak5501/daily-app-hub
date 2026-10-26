@@ -5,4 +5,4 @@ _Tunnel not running yet — start supervisors on the Mac Studio._
 - Local: http://127.0.0.1:8790/
 - Source: https://github.com/dipak5501/local-music-explorer
 - Last feature: Enhance Local Music Explorer
-- Link updated: 2026-10-26T01:25:47.772Z
+- Link updated: 2026-10-26T04:27:40.474Z
