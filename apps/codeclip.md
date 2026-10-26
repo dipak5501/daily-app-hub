@@ -1,8 +1,8 @@
 # Code Snippet Clipper and Organizer
 
-**Live tunnel:** https://bidder-wishes-fingers-transport.trycloudflare.com
+**Live tunnel:** https://knights-bristol-lucas-cadillac.trycloudflare.com
 
 - Local: http://127.0.0.1:8788/
 - Source: https://github.com/dipak5501/codeclip-app
 - Last feature: Enhance CodeClip with AI and User Interaction Improvements
-- Link updated: 2026-10-22T21:44:40.651Z
+- Link updated: 2026-10-26T21:45:34.236Z
