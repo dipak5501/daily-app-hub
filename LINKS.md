@@ -1,6 +1,6 @@
 # Direct links
 
-Updated: 2026-10-27T16:50:44.228Z
+Updated: 2026-10-27T19:52:54.946Z
 
 ## ClearInstall
 
