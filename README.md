@@ -72,6 +72,15 @@ Local port: `127.0.0.1:8792`
 
 ---
 
+### Code Cleaner
+
+_Link refreshing on the Mac Studio — reload this page in a minute._
+
+Source: https://github.com/dipak5501/code-cleaner-app
+Local port: `127.0.0.1:8793`
+
+---
+
 ## Also see
 
 - [LINKS.md](./LINKS.md) — plain URL list

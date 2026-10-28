@@ -7,7 +7,7 @@
       "repo": "dipak5501/clearinstall",
       "url": "https://address-cleaners-examined-debate.trycloudflare.com",
       "port": 8787,
-      "lastFeature": "Enhance ClearInstall with Public Trend Signals",
+      "lastFeature": "Enhance ClearInstall with Risk Detection Features",
       "updatedAt": "2026-10-27T22:29:58.653Z"
     },
     {
@@ -16,7 +16,7 @@
       "repo": "dipak5501/codeclip-app",
       "url": "https://restrictions-cheque-greatly-mine.trycloudflare.com",
       "port": 8788,
-      "lastFeature": "Enhance Code Snippet Clipper and Organizer",
+      "lastFeature": "Enhance CodeClip with Trend Signals",
       "updatedAt": "2026-10-27T22:29:58.662Z"
     },
     {
@@ -25,7 +25,7 @@
       "repo": "dipak5501/localwiki-explorer",
       "url": "https://locator-sig-quarters-democrats.trycloudflare.com",
       "port": 8789,
-      "lastFeature": "Enhancing Local Wiki Explorer with Public Trend Signals",
+      "lastFeature": "Enhance Local Wiki Explorer with Trend Signals",
       "updatedAt": "2026-10-27T22:29:58.679Z"
     },
     {
@@ -34,7 +34,7 @@
       "repo": "dipak5501/local-music-explorer",
       "url": "https://baths-minus-volleyball-picked.trycloudflare.com",
       "port": 8790,
-      "lastFeature": "Enhance Local Music Explorer",
+      "lastFeature": "Enhance Local Music Explorer with Public Trend Signals",
       "updatedAt": "2026-10-27T22:29:58.688Z"
     },
     {
@@ -54,6 +54,15 @@
       "port": 8792,
       "lastFeature": "Enhance Local Artists Directory with Public Trend Signals",
       "updatedAt": "2026-10-27T22:29:58.709Z"
+    },
+    {
+      "slug": "codecleaner",
+      "title": "Code Cleaner",
+      "repo": "dipak5501/code-cleaner-app",
+      "url": null,
+      "port": 8793,
+      "lastFeature": "Enhance Code Cleaner with Public Trend Signals",
+      "updatedAt": "2026-10-28T17:07:08.547Z"
     }
   ]
 }
