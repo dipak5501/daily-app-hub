@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://restrictions-cheque-greatly-mine.trycloudflare.com
+https://uri-bag-brad-meet.trycloudflare.com
 
-[Click here to open](https://restrictions-cheque-greatly-mine.trycloudflare.com)
+[Click here to open](https://uri-bag-brad-meet.trycloudflare.com)
 
 - Local: http://127.0.0.1:8788/
 - Source: https://github.com/dipak5501/codeclip-app
 - Last feature: Enhance CodeClip with Trend Insights
-- Link updated: 2026-10-27T22:29:58.662Z
+- Link updated: 2026-10-29T22:30:47.081Z

@@ -2,15 +2,15 @@
 
 Tap any URL below on your **phone or laptop**. No VPN.
 
-**Last refreshed:** 2026-10-27T22:29:58.710Z
+**Last refreshed:** 2026-10-29T22:30:47.135Z
 
 ## Live apps
 
 ### ClearInstall
 
-**https://address-cleaners-examined-debate.trycloudflare.com**
+**https://sail-worth-ray-semiconductor.trycloudflare.com**
 
-[Open ClearInstall](https://address-cleaners-examined-debate.trycloudflare.com)
+[Open ClearInstall](https://sail-worth-ray-semiconductor.trycloudflare.com)
 
 Source: https://github.com/dipak5501/clearinstall
 Local port: `127.0.0.1:8787`
@@ -19,9 +19,9 @@ Local port: `127.0.0.1:8787`
 
 ### Code Snippet Clipper and Organizer
 
-**https://restrictions-cheque-greatly-mine.trycloudflare.com**
+**https://uri-bag-brad-meet.trycloudflare.com**
 
-[Open Code Snippet Clipper and Organizer](https://restrictions-cheque-greatly-mine.trycloudflare.com)
+[Open Code Snippet Clipper and Organizer](https://uri-bag-brad-meet.trycloudflare.com)
 
 Source: https://github.com/dipak5501/codeclip-app
 Local port: `127.0.0.1:8788`
@@ -30,9 +30,9 @@ Local port: `127.0.0.1:8788`
 
 ### Local Wiki Explorer
 
-**https://locator-sig-quarters-democrats.trycloudflare.com**
+**https://largely-attributes-gather-corps.trycloudflare.com**
 
-[Open Local Wiki Explorer](https://locator-sig-quarters-democrats.trycloudflare.com)
+[Open Local Wiki Explorer](https://largely-attributes-gather-corps.trycloudflare.com)
 
 Source: https://github.com/dipak5501/localwiki-explorer
 Local port: `127.0.0.1:8789`
@@ -41,9 +41,9 @@ Local port: `127.0.0.1:8789`
 
 ### Local Music Explorer
 
-**https://baths-minus-volleyball-picked.trycloudflare.com**
+**https://vinyl-depending-following-analyses.trycloudflare.com**
 
-[Open Local Music Explorer](https://baths-minus-volleyball-picked.trycloudflare.com)
+[Open Local Music Explorer](https://vinyl-depending-following-analyses.trycloudflare.com)
 
 Source: https://github.com/dipak5501/local-music-explorer
 Local port: `127.0.0.1:8790`
@@ -52,9 +52,9 @@ Local port: `127.0.0.1:8790`
 
 ### Local Crypto Tracker
 
-**https://ontario-rolls-cole-shift.trycloudflare.com**
+**https://leslie-tested-regardless-instantly.trycloudflare.com**
 
-[Open Local Crypto Tracker](https://ontario-rolls-cole-shift.trycloudflare.com)
+[Open Local Crypto Tracker](https://leslie-tested-regardless-instantly.trycloudflare.com)
 
 Source: https://github.com/dipak5501/crypto-tracker-local
 Local port: `127.0.0.1:8791`
@@ -63,9 +63,9 @@ Local port: `127.0.0.1:8791`
 
 ### Local Artists Directory
 
-**https://dangerous-recorded-text-header.trycloudflare.com**
+**https://communications-diagnosis-test-powered.trycloudflare.com**
 
-[Open Local Artists Directory](https://dangerous-recorded-text-header.trycloudflare.com)
+[Open Local Artists Directory](https://communications-diagnosis-test-powered.trycloudflare.com)
 
 Source: https://github.com/dipak5501/local-artists-directory
 Local port: `127.0.0.1:8792`
@@ -74,7 +74,9 @@ Local port: `127.0.0.1:8792`
 
 ### Code Cleaner
 
-_Link refreshing on the Mac Studio — reload this page in a minute._
+**https://emphasis-evaluated-hired-scheduled.trycloudflare.com**
+
+[Open Code Cleaner](https://emphasis-evaluated-hired-scheduled.trycloudflare.com)
 
 Source: https://github.com/dipak5501/code-cleaner-app
 Local port: `127.0.0.1:8793`
