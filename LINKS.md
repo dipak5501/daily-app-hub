@@ -1,6 +1,6 @@
 # Direct links
 
-Updated: 2026-10-30T14:47:16.249Z
+Updated: 2026-10-30T17:49:44.895Z
 
 ## ClearInstall
 
@@ -29,3 +29,7 @@ https://communications-diagnosis-test-powered.trycloudflare.com
 ## Code Cleaner
 
 https://emphasis-evaluated-hired-scheduled.trycloudflare.com
+
+## CleanMyDevice
+
+_starting — tunnel not ready_

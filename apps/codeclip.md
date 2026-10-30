@@ -8,5 +8,5 @@ https://uri-bag-brad-meet.trycloudflare.com
 
 - Local: http://127.0.0.1:8788/
 - Source: https://github.com/dipak5501/codeclip-app
-- Last feature: Enhance CodeClip with Modern Trends
+- Last feature: Enhance CodeClip with Public Trend Signals
 - Link updated: 2026-10-29T22:30:47.081Z

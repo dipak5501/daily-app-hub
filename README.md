@@ -83,6 +83,15 @@ Local port: `127.0.0.1:8793`
 
 ---
 
+### CleanMyDevice
+
+_Link refreshing on the Mac Studio — reload this page in a minute._
+
+Source: https://github.com/dipak5501/cleanmydevice-local
+Local port: `127.0.0.1:8794`
+
+---
+
 ## Also see
 
 - [LINKS.md](./LINKS.md) — plain URL list
