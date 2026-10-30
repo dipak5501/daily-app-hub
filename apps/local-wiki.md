@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://largely-attributes-gather-corps.trycloudflare.com
+https://definitions-instructions-ambassador-consultation.trycloudflare.com
 
-[Click here to open](https://largely-attributes-gather-corps.trycloudflare.com)
+[Click here to open](https://definitions-instructions-ambassador-consultation.trycloudflare.com)
 
 - Local: http://127.0.0.1:8789/
 - Source: https://github.com/dipak5501/localwiki-explorer
 - Last feature: Enhance Local Wiki Explorer with Public Trend Signals
-- Link updated: 2026-10-29T22:30:47.093Z
+- Link updated: 2026-10-30T18:14:15.673Z
