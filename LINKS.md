@@ -1,35 +1,35 @@
 # Direct links
 
-Updated: 2026-10-30T18:24:35.309Z
+Updated: 2026-10-30T19:17:40.677Z
 
 ## ClearInstall
 
-https://neo-olympics-heel-terrorist.trycloudflare.com
+https://faculty-alleged-mall-doing.trycloudflare.com/a/clearinstall/
 
 ## Code Snippet Clipper and Organizer
 
-https://instructors-comparative-indicating-airplane.trycloudflare.com
+https://faculty-alleged-mall-doing.trycloudflare.com/a/codeclip/
 
 ## Local Wiki Explorer
 
-https://definitions-instructions-ambassador-consultation.trycloudflare.com
+https://faculty-alleged-mall-doing.trycloudflare.com/a/local-wiki/
 
 ## Local Music Explorer
 
-https://revenues-badge-quilt-sen.trycloudflare.com
+https://faculty-alleged-mall-doing.trycloudflare.com/a/local-music/
 
 ## Local Crypto Tracker
 
-https://limousines-chairs-outdoors-citizens.trycloudflare.com
+https://faculty-alleged-mall-doing.trycloudflare.com/a/local-crypto/
 
 ## Local Artists Directory
 
-https://retrieve-cheese-step-irrigation.trycloudflare.com
+https://faculty-alleged-mall-doing.trycloudflare.com/a/local-artists/
 
 ## Code Cleaner
 
-https://stephen-law-alexander-circulation.trycloudflare.com
+https://faculty-alleged-mall-doing.trycloudflare.com/a/codecleaner/
 
 ## CleanMyDevice
 
-https://mood-lead-pressed-qualifying.trycloudflare.com
+https://faculty-alleged-mall-doing.trycloudflare.com/a/cleanmydevice/

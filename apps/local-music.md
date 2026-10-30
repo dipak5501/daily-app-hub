@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://revenues-badge-quilt-sen.trycloudflare.com
+https://faculty-alleged-mall-doing.trycloudflare.com/a/local-music/
 
-[Click here to open](https://revenues-badge-quilt-sen.trycloudflare.com)
+[Click here to open](https://faculty-alleged-mall-doing.trycloudflare.com/a/local-music/)
 
 - Local: http://127.0.0.1:8790/
 - Source: https://github.com/dipak5501/local-music-explorer
 - Last feature: Enhance Local Music Explorer
-- Link updated: 2026-10-30T18:24:31.298Z
+- Link updated: 2026-10-30T19:17:40.599Z

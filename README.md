@@ -2,15 +2,15 @@
 
 Tap any URL below on your **phone or laptop**. No VPN.
 
-**Last refreshed:** 2026-10-30T18:24:31.356Z
+**Last refreshed:** 2026-10-30T19:17:40.652Z
 
 ## Live apps
 
 ### ClearInstall
 
-**https://neo-olympics-heel-terrorist.trycloudflare.com**
+**https://faculty-alleged-mall-doing.trycloudflare.com/a/clearinstall/**
 
-[Open ClearInstall](https://neo-olympics-heel-terrorist.trycloudflare.com)
+[Open ClearInstall](https://faculty-alleged-mall-doing.trycloudflare.com/a/clearinstall/)
 
 Source: https://github.com/dipak5501/clearinstall
 Local port: `127.0.0.1:8787`
@@ -19,9 +19,9 @@ Local port: `127.0.0.1:8787`
 
 ### Code Snippet Clipper and Organizer
 
-**https://instructors-comparative-indicating-airplane.trycloudflare.com**
+**https://faculty-alleged-mall-doing.trycloudflare.com/a/codeclip/**
 
-[Open Code Snippet Clipper and Organizer](https://instructors-comparative-indicating-airplane.trycloudflare.com)
+[Open Code Snippet Clipper and Organizer](https://faculty-alleged-mall-doing.trycloudflare.com/a/codeclip/)
 
 Source: https://github.com/dipak5501/codeclip-app
 Local port: `127.0.0.1:8788`
@@ -30,9 +30,9 @@ Local port: `127.0.0.1:8788`
 
 ### Local Wiki Explorer
 
-**https://definitions-instructions-ambassador-consultation.trycloudflare.com**
+**https://faculty-alleged-mall-doing.trycloudflare.com/a/local-wiki/**
 
-[Open Local Wiki Explorer](https://definitions-instructions-ambassador-consultation.trycloudflare.com)
+[Open Local Wiki Explorer](https://faculty-alleged-mall-doing.trycloudflare.com/a/local-wiki/)
 
 Source: https://github.com/dipak5501/localwiki-explorer
 Local port: `127.0.0.1:8789`
@@ -41,9 +41,9 @@ Local port: `127.0.0.1:8789`
 
 ### Local Music Explorer
 
-**https://revenues-badge-quilt-sen.trycloudflare.com**
+**https://faculty-alleged-mall-doing.trycloudflare.com/a/local-music/**
 
-[Open Local Music Explorer](https://revenues-badge-quilt-sen.trycloudflare.com)
+[Open Local Music Explorer](https://faculty-alleged-mall-doing.trycloudflare.com/a/local-music/)
 
 Source: https://github.com/dipak5501/local-music-explorer
 Local port: `127.0.0.1:8790`
@@ -52,9 +52,9 @@ Local port: `127.0.0.1:8790`
 
 ### Local Crypto Tracker
 
-**https://limousines-chairs-outdoors-citizens.trycloudflare.com**
+**https://faculty-alleged-mall-doing.trycloudflare.com/a/local-crypto/**
 
-[Open Local Crypto Tracker](https://limousines-chairs-outdoors-citizens.trycloudflare.com)
+[Open Local Crypto Tracker](https://faculty-alleged-mall-doing.trycloudflare.com/a/local-crypto/)
 
 Source: https://github.com/dipak5501/crypto-tracker-local
 Local port: `127.0.0.1:8791`
@@ -63,9 +63,9 @@ Local port: `127.0.0.1:8791`
 
 ### Local Artists Directory
 
-**https://retrieve-cheese-step-irrigation.trycloudflare.com**
+**https://faculty-alleged-mall-doing.trycloudflare.com/a/local-artists/**
 
-[Open Local Artists Directory](https://retrieve-cheese-step-irrigation.trycloudflare.com)
+[Open Local Artists Directory](https://faculty-alleged-mall-doing.trycloudflare.com/a/local-artists/)
 
 Source: https://github.com/dipak5501/local-artists-directory
 Local port: `127.0.0.1:8792`
@@ -74,9 +74,9 @@ Local port: `127.0.0.1:8792`
 
 ### Code Cleaner
 
-**https://stephen-law-alexander-circulation.trycloudflare.com**
+**https://faculty-alleged-mall-doing.trycloudflare.com/a/codecleaner/**
 
-[Open Code Cleaner](https://stephen-law-alexander-circulation.trycloudflare.com)
+[Open Code Cleaner](https://faculty-alleged-mall-doing.trycloudflare.com/a/codecleaner/)
 
 Source: https://github.com/dipak5501/code-cleaner-app
 Local port: `127.0.0.1:8793`
@@ -85,9 +85,9 @@ Local port: `127.0.0.1:8793`
 
 ### CleanMyDevice
 
-**https://mood-lead-pressed-qualifying.trycloudflare.com**
+**https://faculty-alleged-mall-doing.trycloudflare.com/a/cleanmydevice/**
 
-[Open CleanMyDevice](https://mood-lead-pressed-qualifying.trycloudflare.com)
+[Open CleanMyDevice](https://faculty-alleged-mall-doing.trycloudflare.com/a/cleanmydevice/)
 
 Source: https://github.com/dipak5501/cleanmydevice-local
 Local port: `127.0.0.1:8794`

@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://instructors-comparative-indicating-airplane.trycloudflare.com
+https://faculty-alleged-mall-doing.trycloudflare.com/a/codeclip/
 
-[Click here to open](https://instructors-comparative-indicating-airplane.trycloudflare.com)
+[Click here to open](https://faculty-alleged-mall-doing.trycloudflare.com/a/codeclip/)
 
 - Local: http://127.0.0.1:8788/
 - Source: https://github.com/dipak5501/codeclip-app
 - Last feature: Enhance CodeClip with Public Trend Signals
-- Link updated: 2026-10-30T18:24:31.356Z
+- Link updated: 2026-10-30T19:17:40.575Z

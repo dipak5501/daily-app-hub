@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://retrieve-cheese-step-irrigation.trycloudflare.com
+https://faculty-alleged-mall-doing.trycloudflare.com/a/local-artists/
 
-[Click here to open](https://retrieve-cheese-step-irrigation.trycloudflare.com)
+[Click here to open](https://faculty-alleged-mall-doing.trycloudflare.com/a/local-artists/)
 
 - Local: http://127.0.0.1:8792/
 - Source: https://github.com/dipak5501/local-artists-directory
 - Last feature: Enhance Local Artists Directory with User Engagement Features
-- Link updated: 2026-10-30T18:24:31.288Z
+- Link updated: 2026-10-30T19:17:40.622Z
