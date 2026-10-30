@@ -2,7 +2,7 @@
 
 Tap any URL below on your **phone or laptop**. No VPN.
 
-**Last refreshed:** 2026-10-30T18:14:15.808Z
+**Last refreshed:** 2026-10-30T18:24:31.356Z
 
 ## Live apps
 
