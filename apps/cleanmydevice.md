@@ -8,5 +8,5 @@ https://management-structures-theories-copyrights.trycloudflare.com/a/cleanmydev
 
 - Local: http://127.0.0.1:8794/
 - Source: https://github.com/dipak5501/cleanmydevice-local
-- Last feature: Optimize Your Device with Public Trend Signals
+- Last feature: Enhance CleanMyDevice with Trending Features
 - Link updated: 2026-10-31T06:15:10.701Z
