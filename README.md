@@ -94,6 +94,15 @@ Local port: `127.0.0.1:8794`
 
 ---
 
+### Privacy Guard
+
+_Link refreshing on the Mac Studio — reload this page in a minute._
+
+Source: https://github.com/dipak5501/privacy-guard
+Local port: `127.0.0.1:8795`
+
+---
+
 ## Also see
 
 - [LINKS.md](./LINKS.md) — plain URL list

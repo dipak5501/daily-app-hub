@@ -1,6 +1,6 @@
 # Direct links
 
-Updated: 2026-10-31T15:30:09.326Z
+Updated: 2026-10-31T18:11:20.056Z
 
 ## ClearInstall
 
@@ -33,3 +33,7 @@ https://management-structures-theories-copyrights.trycloudflare.com/a/codecleane
 ## CleanMyDevice
 
 https://management-structures-theories-copyrights.trycloudflare.com/a/cleanmydevice/
+
+## Privacy Guard
+
+_starting — tunnel not ready_
