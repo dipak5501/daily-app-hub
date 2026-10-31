@@ -8,5 +8,5 @@ https://management-structures-theories-copyrights.trycloudflare.com/a/local-cryp
 
 - Local: http://127.0.0.1:8791/
 - Source: https://github.com/dipak5501/crypto-tracker-local
-- Last feature: Optimize Local Crypto Tracker with Public Trend Signals
+- Last feature: Enhance Local Crypto Tracker with Public Trend Signals
 - Link updated: 2026-10-31T06:15:10.681Z
