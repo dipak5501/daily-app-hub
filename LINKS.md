@@ -1,35 +1,35 @@
 # Direct links
 
-Updated: 2026-10-31T06:00:02.007Z
+Updated: 2026-10-31T06:15:10.810Z
 
 ## ClearInstall
 
-https://faculty-alleged-mall-doing.trycloudflare.com/a/clearinstall/
+https://management-structures-theories-copyrights.trycloudflare.com/a/clearinstall/
 
 ## Code Snippet Clipper and Organizer
 
-https://faculty-alleged-mall-doing.trycloudflare.com/a/codeclip/
+https://management-structures-theories-copyrights.trycloudflare.com/a/codeclip/
 
 ## Local Wiki Explorer
 
-https://faculty-alleged-mall-doing.trycloudflare.com/a/local-wiki/
+https://management-structures-theories-copyrights.trycloudflare.com/a/local-wiki/
 
 ## Local Music Explorer
 
-https://faculty-alleged-mall-doing.trycloudflare.com/a/local-music/
+https://management-structures-theories-copyrights.trycloudflare.com/a/local-music/
 
 ## Local Crypto Tracker
 
-https://faculty-alleged-mall-doing.trycloudflare.com/a/local-crypto/
+https://management-structures-theories-copyrights.trycloudflare.com/a/local-crypto/
 
 ## Local Artists Directory
 
-https://faculty-alleged-mall-doing.trycloudflare.com/a/local-artists/
+https://management-structures-theories-copyrights.trycloudflare.com/a/local-artists/
 
 ## Code Cleaner
 
-https://faculty-alleged-mall-doing.trycloudflare.com/a/codecleaner/
+https://management-structures-theories-copyrights.trycloudflare.com/a/codecleaner/
 
 ## CleanMyDevice
 
-https://faculty-alleged-mall-doing.trycloudflare.com/a/cleanmydevice/
+https://management-structures-theories-copyrights.trycloudflare.com/a/cleanmydevice/

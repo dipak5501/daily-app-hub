@@ -1,77 +1,77 @@
 {
-  "updatedAt": "2026-10-30T19:18:46.098Z",
+  "updatedAt": "2026-10-31T06:15:10.719Z",
   "apps": [
     {
       "slug": "clearinstall",
       "title": "ClearInstall",
       "repo": "dipak5501/clearinstall",
-      "url": "https://faculty-alleged-mall-doing.trycloudflare.com/a/clearinstall/",
+      "url": "https://management-structures-theories-copyrights.trycloudflare.com/a/clearinstall/",
       "port": 8787,
       "lastFeature": "Enhance ClearInstall with Real-Time Risk Assessment",
-      "updatedAt": "2026-10-30T19:18:46.051Z"
+      "updatedAt": "2026-10-31T06:15:10.598Z"
     },
     {
       "slug": "codeclip",
       "title": "Code Snippet Clipper and Organizer",
       "repo": "dipak5501/codeclip-app",
-      "url": "https://faculty-alleged-mall-doing.trycloudflare.com/a/codeclip/",
+      "url": "https://management-structures-theories-copyrights.trycloudflare.com/a/codeclip/",
       "port": 8788,
       "lastFeature": "Enhance CodeClip with Public Trend Signals",
-      "updatedAt": "2026-10-30T19:18:46.059Z"
+      "updatedAt": "2026-10-31T06:15:10.603Z"
     },
     {
       "slug": "local-wiki",
       "title": "Local Wiki Explorer",
       "repo": "dipak5501/localwiki-explorer",
-      "url": "https://faculty-alleged-mall-doing.trycloudflare.com/a/local-wiki/",
+      "url": "https://management-structures-theories-copyrights.trycloudflare.com/a/local-wiki/",
       "port": 8789,
       "lastFeature": "Enhance Local Wiki Explorer with Public Trend Signals",
-      "updatedAt": "2026-10-30T19:18:46.063Z"
+      "updatedAt": "2026-10-31T06:15:10.608Z"
     },
     {
       "slug": "local-music",
       "title": "Local Music Explorer",
       "repo": "dipak5501/local-music-explorer",
-      "url": "https://faculty-alleged-mall-doing.trycloudflare.com/a/local-music/",
+      "url": "https://management-structures-theories-copyrights.trycloudflare.com/a/local-music/",
       "port": 8790,
       "lastFeature": "Enhance Local Music Explorer with Public Trend Signals",
-      "updatedAt": "2026-10-30T19:18:46.081Z"
+      "updatedAt": "2026-10-31T06:15:10.670Z"
     },
     {
       "slug": "local-crypto",
       "title": "Local Crypto Tracker",
       "repo": "dipak5501/crypto-tracker-local",
-      "url": "https://faculty-alleged-mall-doing.trycloudflare.com/a/local-crypto/",
+      "url": "https://management-structures-theories-copyrights.trycloudflare.com/a/local-crypto/",
       "port": 8791,
       "lastFeature": "Enhance Local Crypto Tracker with Public Trend Signals",
-      "updatedAt": "2026-10-30T19:18:46.085Z"
+      "updatedAt": "2026-10-31T06:15:10.681Z"
     },
     {
       "slug": "local-artists",
       "title": "Local Artists Directory",
       "repo": "dipak5501/local-artists-directory",
-      "url": "https://faculty-alleged-mall-doing.trycloudflare.com/a/local-artists/",
+      "url": "https://management-structures-theories-copyrights.trycloudflare.com/a/local-artists/",
       "port": 8792,
       "lastFeature": "Enhance Local Artists Directory with Public Trend Signals",
-      "updatedAt": "2026-10-30T19:18:46.088Z"
+      "updatedAt": "2026-10-31T06:15:10.688Z"
     },
     {
       "slug": "codecleaner",
       "title": "Code Cleaner",
       "repo": "dipak5501/code-cleaner-app",
-      "url": "https://faculty-alleged-mall-doing.trycloudflare.com/a/codecleaner/",
+      "url": "https://management-structures-theories-copyrights.trycloudflare.com/a/codecleaner/",
       "port": 8793,
       "lastFeature": "Optimize Code Snippets with Advanced Techniques",
-      "updatedAt": "2026-10-30T19:18:46.092Z"
+      "updatedAt": "2026-10-31T06:15:10.695Z"
     },
     {
       "slug": "cleanmydevice",
       "title": "CleanMyDevice",
       "repo": "dipak5501/cleanmydevice-local",
-      "url": "https://faculty-alleged-mall-doing.trycloudflare.com/a/cleanmydevice/",
+      "url": "https://management-structures-theories-copyrights.trycloudflare.com/a/cleanmydevice/",
       "port": 8794,
       "lastFeature": "Enhance CleanMyDevice with Trending Features",
-      "updatedAt": "2026-10-30T19:18:46.096Z"
+      "updatedAt": "2026-10-31T06:15:10.701Z"
     }
   ]
 }
