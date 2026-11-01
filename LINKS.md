@@ -1,6 +1,6 @@
 # Direct links
 
-Updated: 2026-11-01T16:30:11.493Z
+Updated: 2026-11-01T18:36:34.424Z
 
 ## ClearInstall
 
@@ -37,3 +37,7 @@ https://filling-ken-dad-estimation.trycloudflare.com/a/cleanmydevice/
 ## Privacy Guard
 
 https://filling-ken-dad-estimation.trycloudflare.com/a/privacy-guard/
+
+## Local Safety Hub
+
+_starting — tunnel not ready_
