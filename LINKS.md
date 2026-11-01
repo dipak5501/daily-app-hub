@@ -1,39 +1,39 @@
 # Direct links
 
-Updated: 2026-11-01T03:20:34.004Z
+Updated: 2026-11-01T06:15:21.986Z
 
 ## ClearInstall
 
-https://management-structures-theories-copyrights.trycloudflare.com/a/clearinstall/
+https://filling-ken-dad-estimation.trycloudflare.com/a/clearinstall/
 
 ## Code Snippet Clipper and Organizer
 
-https://management-structures-theories-copyrights.trycloudflare.com/a/codeclip/
+https://filling-ken-dad-estimation.trycloudflare.com/a/codeclip/
 
 ## Local Wiki Explorer
 
-https://management-structures-theories-copyrights.trycloudflare.com/a/local-wiki/
+https://filling-ken-dad-estimation.trycloudflare.com/a/local-wiki/
 
 ## Local Music Explorer
 
-https://management-structures-theories-copyrights.trycloudflare.com/a/local-music/
+https://filling-ken-dad-estimation.trycloudflare.com/a/local-music/
 
 ## Local Crypto Tracker
 
-https://management-structures-theories-copyrights.trycloudflare.com/a/local-crypto/
+https://filling-ken-dad-estimation.trycloudflare.com/a/local-crypto/
 
 ## Local Artists Directory
 
-https://management-structures-theories-copyrights.trycloudflare.com/a/local-artists/
+https://filling-ken-dad-estimation.trycloudflare.com/a/local-artists/
 
 ## Code Cleaner
 
-https://management-structures-theories-copyrights.trycloudflare.com/a/codecleaner/
+https://filling-ken-dad-estimation.trycloudflare.com/a/codecleaner/
 
 ## CleanMyDevice
 
-https://management-structures-theories-copyrights.trycloudflare.com/a/cleanmydevice/
+https://filling-ken-dad-estimation.trycloudflare.com/a/cleanmydevice/
 
 ## Privacy Guard
 
-_starting — tunnel not ready_
+https://filling-ken-dad-estimation.trycloudflare.com/a/privacy-guard/
