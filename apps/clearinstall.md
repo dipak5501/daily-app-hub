@@ -8,5 +8,5 @@ https://management-structures-theories-copyrights.trycloudflare.com/a/clearinsta
 
 - Local: http://127.0.0.1:8787/
 - Source: https://github.com/dipak5501/clearinstall
-- Last feature: Enhance ClearInstall with Real-Time Dependency Risk Detection
+- Last feature: Enhancing ClearInstall with Public Trend Signals
 - Link updated: 2026-10-31T06:15:10.598Z
