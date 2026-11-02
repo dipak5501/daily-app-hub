@@ -114,6 +114,15 @@ Local port: `127.0.0.1:8796`
 
 ---
 
+### Local Safety Watch
+
+_Link refreshing on the Mac Studio — reload this page in a minute._
+
+Source: https://github.com/dipak5501/safety-watch
+Local port: `127.0.0.1:8797`
+
+---
+
 ## Also see
 
 - [LINKS.md](./LINKS.md) — plain URL list
