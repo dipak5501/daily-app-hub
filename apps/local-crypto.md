@@ -8,5 +8,5 @@ https://filling-ken-dad-estimation.trycloudflare.com/a/local-crypto/
 
 - Local: http://127.0.0.1:8791/
 - Source: https://github.com/dipak5501/crypto-tracker-local
-- Last feature: Enhance Local Crypto Tracker with AI and User Experience Improvements
+- Last feature: Enhance Local Crypto Tracker with AI Trends
 - Link updated: 2026-11-01T06:15:21.817Z
