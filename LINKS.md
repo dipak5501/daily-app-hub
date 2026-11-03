@@ -1,6 +1,6 @@
 # Direct links
 
-Updated: 2026-11-03T16:30:30.613Z
+Updated: 2026-11-03T19:35:39.531Z
 
 ## ClearInstall
 
@@ -43,5 +43,9 @@ https://filling-ken-dad-estimation.trycloudflare.com/a/privacy-guard/
 _starting — tunnel not ready_
 
 ## Local Safety Watch
+
+_starting — tunnel not ready_
+
+## Flashcard Builder for Language Learning
 
 _starting — tunnel not ready_
