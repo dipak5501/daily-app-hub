@@ -1,6 +1,6 @@
 # Direct links
 
-Updated: 2026-11-04T20:10:37.986Z
+Updated: 2026-11-04T23:14:41.957Z
 
 ## ClearInstall
 
@@ -51,5 +51,13 @@ _starting — tunnel not ready_
 _starting — tunnel not ready_
 
 ## Local Event Finder
+
+_starting — tunnel not ready_
+
+## PyTaskBench
+
+_starting — tunnel not ready_
+
+## Java DeskList
 
 _starting — tunnel not ready_

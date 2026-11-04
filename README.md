@@ -141,6 +141,23 @@ Local port: `127.0.0.1:8799`
 
 ---
 
+### PyTaskBench
+
+_Link refreshing on the Mac Studio — reload this page in a minute._
+
+Local port: `127.0.0.1:8800`
+
+---
+
+### Java DeskList
+
+_Link refreshing on the Mac Studio — reload this page in a minute._
+
+Source: https://github.com/dipak5501/java-desklist
+Local port: `127.0.0.1:8801`
+
+---
+
 ## Also see
 
 - [LINKS.md](./LINKS.md) — plain URL list
