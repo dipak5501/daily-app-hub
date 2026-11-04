@@ -132,6 +132,15 @@ Local port: `127.0.0.1:8798`
 
 ---
 
+### Local Event Finder
+
+_Link refreshing on the Mac Studio — reload this page in a minute._
+
+Source: https://github.com/dipak5501/event-finder-local
+Local port: `127.0.0.1:8799`
+
+---
+
 ## Also see
 
 - [LINKS.md](./LINKS.md) — plain URL list

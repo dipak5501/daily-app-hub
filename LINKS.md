@@ -1,6 +1,6 @@
 # Direct links
 
-Updated: 2026-11-04T16:30:08.622Z
+Updated: 2026-11-04T17:06:23.695Z
 
 ## ClearInstall
 
@@ -47,5 +47,9 @@ _starting — tunnel not ready_
 _starting — tunnel not ready_
 
 ## Flashcard Builder for Language Learning
+
+_starting — tunnel not ready_
+
+## Local Event Finder
 
 _starting — tunnel not ready_
