@@ -9,4 +9,4 @@ _Tunnel not ready yet — check back in a minute._
 - Local: http://127.0.0.1:8799/
 - Source: https://github.com/dipak5501/event-finder-local
 - Last feature: Enhance Local Event Finder
-- Link updated: 2026-11-04T17:04:12.737Z
+- Link updated: 2026-11-04T20:08:34.978Z
