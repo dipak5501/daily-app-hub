@@ -9,4 +9,4 @@ _Tunnel not ready yet — check back in a minute._
 - Local: http://127.0.0.1:8798/
 - Source: https://github.com/dipak5501/lang-flashcards
 - Last feature: Enhance Flashcard Builder for Language Learning
-- Link updated: 2026-11-05T02:15:09.969Z
+- Link updated: 2026-11-05T05:20:28.966Z
