@@ -170,6 +170,15 @@ Local port: `127.0.0.1:8801`
 
 ---
 
+### Local Security Audit Tool
+
+_Link refreshing on the Mac Studio — reload this page in a minute._
+
+Source: https://github.com/dipak5501/sec-audit-tool
+Local port: `127.0.0.1:8802`
+
+---
+
 ## Also see
 
 - [LINKS.md](./LINKS.md) — plain URL list
