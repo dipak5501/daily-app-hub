@@ -1,63 +1,63 @@
 # Direct links
 
-Updated: 2026-11-05T08:29:34.601Z
+Updated: 2026-11-05T10:52:52.581Z
 
 ## ClearInstall
 
-https://filling-ken-dad-estimation.trycloudflare.com/a/clearinstall/
+https://lloyd-april-regard-remove.trycloudflare.com/a/clearinstall/
 
 ## Code Snippet Clipper and Organizer
 
-https://filling-ken-dad-estimation.trycloudflare.com/a/codeclip/
+https://lloyd-april-regard-remove.trycloudflare.com/a/codeclip/
 
 ## Local Wiki Explorer
 
-https://filling-ken-dad-estimation.trycloudflare.com/a/local-wiki/
+https://lloyd-april-regard-remove.trycloudflare.com/a/local-wiki/
 
 ## Local Music Explorer
 
-https://filling-ken-dad-estimation.trycloudflare.com/a/local-music/
+https://lloyd-april-regard-remove.trycloudflare.com/a/local-music/
 
 ## Local Crypto Tracker
 
-https://filling-ken-dad-estimation.trycloudflare.com/a/local-crypto/
+https://lloyd-april-regard-remove.trycloudflare.com/a/local-crypto/
 
 ## Local Artists Directory
 
-https://filling-ken-dad-estimation.trycloudflare.com/a/local-artists/
+https://lloyd-april-regard-remove.trycloudflare.com/a/local-artists/
 
 ## Code Cleaner
 
-https://filling-ken-dad-estimation.trycloudflare.com/a/codecleaner/
+https://lloyd-april-regard-remove.trycloudflare.com/a/codecleaner/
 
 ## CleanMyDevice
 
-https://filling-ken-dad-estimation.trycloudflare.com/a/cleanmydevice/
+https://lloyd-april-regard-remove.trycloudflare.com/a/cleanmydevice/
 
 ## Privacy Guard
 
-https://filling-ken-dad-estimation.trycloudflare.com/a/privacy-guard/
+https://lloyd-april-regard-remove.trycloudflare.com/a/privacy-guard/
 
 ## Local Safety Hub
 
-_starting — tunnel not ready_
+https://lloyd-april-regard-remove.trycloudflare.com/a/local-safety/
 
 ## Local Safety Watch
 
-_starting — tunnel not ready_
+https://lloyd-april-regard-remove.trycloudflare.com/a/local-safety-watch/
 
 ## Flashcard Builder for Language Learning
 
-_starting — tunnel not ready_
+https://lloyd-april-regard-remove.trycloudflare.com/a/flashcard-builder/
 
 ## Local Event Finder
 
-_starting — tunnel not ready_
+https://lloyd-april-regard-remove.trycloudflare.com/a/local-eventfinder/
 
 ## PyTaskBench
 
-_starting — tunnel not ready_
+https://lloyd-april-regard-remove.trycloudflare.com/a/py-taskbench/
 
 ## Java DeskList
 
-_starting — tunnel not ready_
+https://lloyd-april-regard-remove.trycloudflare.com/a/java-desklist/
