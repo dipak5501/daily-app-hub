@@ -8,5 +8,5 @@ _Tunnel not ready yet — check back in a minute._
 
 - Local: http://127.0.0.1:8797/
 - Source: https://github.com/dipak5501/safety-watch
-- Last feature: Enhance Local Safety Watch with AI and Community Engagement
-- Link updated: 2026-11-04T23:13:12.634Z
+- Last feature: Enhancing Local Safety Watch with Public Trend Signals
+- Link updated: 2026-11-05T02:17:46.174Z
