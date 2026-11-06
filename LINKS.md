@@ -1,6 +1,6 @@
 # Direct links
 
-Updated: 2026-11-06T16:30:10.462Z
+Updated: 2026-11-06T18:22:29.488Z
 
 ## ClearInstall
 
@@ -63,5 +63,9 @@ https://lloyd-april-regard-remove.trycloudflare.com/a/py-taskbench/
 https://lloyd-april-regard-remove.trycloudflare.com/a/java-desklist/
 
 ## Local Security Audit Tool
+
+_starting — tunnel not ready_
+
+## Local Security Check Utility
 
 _starting — tunnel not ready_

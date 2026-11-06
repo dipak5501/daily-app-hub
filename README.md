@@ -179,6 +179,15 @@ Local port: `127.0.0.1:8802`
 
 ---
 
+### Local Security Check Utility
+
+_Link refreshing on the Mac Studio — reload this page in a minute._
+
+Source: https://github.com/dipak5501/java-desksec
+Local port: `127.0.0.1:8803`
+
+---
+
 ## Also see
 
 - [LINKS.md](./LINKS.md) — plain URL list
