@@ -1,6 +1,6 @@
 # Direct links
 
-Updated: 2026-11-07T16:30:07.787Z
+Updated: 2026-11-07T18:59:39.434Z
 
 ## ClearInstall
 
@@ -67,5 +67,9 @@ https://lloyd-april-regard-remove.trycloudflare.com/a/java-desklist/
 _starting — tunnel not ready_
 
 ## Local Security Check Utility
+
+_starting — tunnel not ready_
+
+## Local Task Manager
 
 _starting — tunnel not ready_

@@ -188,6 +188,15 @@ Local port: `127.0.0.1:8803`
 
 ---
 
+### Local Task Manager
+
+_Link refreshing on the Mac Studio — reload this page in a minute._
+
+Source: https://github.com/dipak5501/local-task-manager
+Local port: `127.0.0.1:8804`
+
+---
+
 ## Also see
 
 - [LINKS.md](./LINKS.md) — plain URL list
