@@ -8,5 +8,5 @@ https://lloyd-april-regard-remove.trycloudflare.com/a/local-safety/
 
 - Local: http://127.0.0.1:8796/
 - Source: https://github.com/dipak5501/safety-hub
-- Last feature: Enhance Local Safety Hub with Cutting-Edge AI and Community Engagement
+- Last feature: Enhance Local Safety Hub with AI and Community Engagement
 - Link updated: 2026-11-05T10:52:52.439Z
