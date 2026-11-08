@@ -7,7 +7,7 @@
       "repo": "dipak5501/clearinstall",
       "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/clearinstall/",
       "port": 8787,
-      "lastFeature": "Enhance ClearInstall with AI-driven Risk Assessment",
+      "lastFeature": "Enhance ClearInstall with AI-driven Risk Analysis",
       "updatedAt": "2026-11-05T10:52:52.319Z"
     },
     {
@@ -16,7 +16,7 @@
       "repo": "dipak5501/codeclip-app",
       "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/codeclip/",
       "port": 8788,
-      "lastFeature": "Enhance CodeClip with AI and User Engagement Features",
+      "lastFeature": "Enhance CodeClip with AI-Powered Features",
       "updatedAt": "2026-11-05T10:52:52.329Z"
     },
     {
@@ -25,7 +25,7 @@
       "repo": "dipak5501/localwiki-explorer",
       "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/local-wiki/",
       "port": 8789,
-      "lastFeature": "Enhancing Local Wiki Explorer with AI and User Engagement",
+      "lastFeature": "Enhance Local Wiki Explorer with AI and Interactive Features",
       "updatedAt": "2026-11-05T10:52:52.338Z"
     },
     {
@@ -34,7 +34,7 @@
       "repo": "dipak5501/local-music-explorer",
       "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/local-music/",
       "port": 8790,
-      "lastFeature": "Enhance Local Music Explorer with AI-Powered Features",
+      "lastFeature": "Enhance Local Music Explorer",
       "updatedAt": "2026-11-05T10:52:52.348Z"
     },
     {
@@ -70,7 +70,7 @@
       "repo": "dipak5501/cleanmydevice-local",
       "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/cleanmydevice/",
       "port": 8794,
-      "lastFeature": "Enhance CleanMyDevice with AI-Powered Features",
+      "lastFeature": "Enhance CleanMyDevice with AI",
       "updatedAt": "2026-11-05T10:52:52.398Z"
     },
     {
@@ -79,7 +79,7 @@
       "repo": "dipak5501/privacy-guard",
       "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/privacy-guard/",
       "port": 8795,
-      "lastFeature": "Enhance Privacy Guard with AI-Powered Risk Detection",
+      "lastFeature": "Enhance Privacy Guard with AI-Powered Features",
       "updatedAt": "2026-11-05T10:52:52.412Z"
     },
     {
@@ -88,7 +88,7 @@
       "repo": "dipak5501/safety-hub",
       "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/local-safety/",
       "port": 8796,
-      "lastFeature": "Enhance Local Safety Hub with AI and Community Engagement",
+      "lastFeature": "Enhance Local Safety Hub with AI and Community Features",
       "updatedAt": "2026-11-05T10:52:52.439Z"
     },
     {
@@ -97,7 +97,7 @@
       "repo": "dipak5501/safety-watch",
       "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/local-safety-watch/",
       "port": 8797,
-      "lastFeature": "Enhance Local Safety Watch with AI and Community Engagement",
+      "lastFeature": "Enhance Local Safety Watch with AI and Community Features",
       "updatedAt": "2026-11-05T10:52:52.456Z"
     },
     {
@@ -115,7 +115,7 @@
       "repo": "dipak5501/event-finder-local",
       "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/local-eventfinder/",
       "port": 8799,
-      "lastFeature": "Enhance Local Event Finder",
+      "lastFeature": "Enhance Local Event Finder with AI",
       "updatedAt": "2026-11-05T10:52:52.480Z"
     },
     {
@@ -133,7 +133,7 @@
       "repo": "dipak5501/java-desklist",
       "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/java-desklist/",
       "port": 8801,
-      "lastFeature": "Enhance Java DeskList with AI Integration",
+      "lastFeature": "Enhance Java DeskList with AI-Powered Features",
       "updatedAt": "2026-11-05T10:52:52.500Z"
     },
     {
@@ -152,7 +152,7 @@
       "url": null,
       "port": 8803,
       "lastFeature": "Enhance Local Security Check Utility",
-      "updatedAt": "2026-11-08T16:34:25.751Z"
+      "updatedAt": "2026-11-08T19:39:06.714Z"
     },
     {
       "slug": "local-task-manager",
@@ -162,6 +162,15 @@
       "port": 8804,
       "lastFeature": null,
       "updatedAt": "2026-11-07"
+    },
+    {
+      "slug": "local-storyboard",
+      "title": "Local Storyboard Creator",
+      "repo": "dipak5501/local-storyboard-java",
+      "url": null,
+      "port": 8805,
+      "lastFeature": "Enhancing Local Storyboard Creator with AI and User Experience Improvements",
+      "updatedAt": "2026-11-08T19:36:03.681Z"
     }
   ]
 }

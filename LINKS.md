@@ -1,6 +1,6 @@
 # Direct links
 
-Updated: 2026-11-08T16:35:02.206Z
+Updated: 2026-11-08T19:40:21.520Z
 
 ## ClearInstall
 
@@ -71,5 +71,9 @@ _starting — tunnel not ready_
 _starting — tunnel not ready_
 
 ## Local Task Manager
+
+_starting — tunnel not ready_
+
+## Local Storyboard Creator
 
 _starting — tunnel not ready_

@@ -197,6 +197,15 @@ Local port: `127.0.0.1:8804`
 
 ---
 
+### Local Storyboard Creator
+
+_Link refreshing on the Mac Studio — reload this page in a minute._
+
+Source: https://github.com/dipak5501/local-storyboard-java
+Local port: `127.0.0.1:8805`
+
+---
+
 ## Also see
 
 - [LINKS.md](./LINKS.md) — plain URL list
