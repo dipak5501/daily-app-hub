@@ -9,4 +9,4 @@ _Tunnel not ready yet — check back in a minute._
 - Local: http://127.0.0.1:8803/
 - Source: https://github.com/dipak5501/java-desksec
 - Last feature: Enhance Local Security Check Utility
-- Link updated: 2026-11-08T07:18:49.001Z
+- Link updated: 2026-11-08T10:23:59.698Z
