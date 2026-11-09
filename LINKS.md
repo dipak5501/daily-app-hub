@@ -1,6 +1,6 @@
 # Direct links
 
-Updated: 2026-11-09T16:30:10.645Z
+Updated: 2026-11-09T17:17:08.767Z
 
 ## ClearInstall
 
@@ -75,5 +75,9 @@ _starting — tunnel not ready_
 _starting — tunnel not ready_
 
 ## Local Storyboard Creator
+
+_starting — tunnel not ready_
+
+## Local Storyteller
 
 _starting — tunnel not ready_
