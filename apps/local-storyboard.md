@@ -8,5 +8,5 @@ _Tunnel not ready yet — check back in a minute._
 
 - Local: http://127.0.0.1:8805/
 - Source: https://github.com/dipak5501/local-storyboard-java
-- Last feature: Enhance Local Storyboard Creator
-- Link updated: 2026-11-09T07:57:37.554Z
+- Last feature: Enhancing Local Storyboard Creator
+- Link updated: 2026-11-09T11:02:44.029Z
