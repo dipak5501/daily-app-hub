@@ -1,6 +1,6 @@
 # Direct links
 
-Updated: 2026-11-11T16:30:10.103Z
+Updated: 2026-11-11T18:47:12.215Z
 
 ## ClearInstall
 
@@ -79,5 +79,9 @@ _starting — tunnel not ready_
 _starting — tunnel not ready_
 
 ## Local Storyteller
+
+_starting — tunnel not ready_
+
+## Local Agent Management Utility
 
 _starting — tunnel not ready_
