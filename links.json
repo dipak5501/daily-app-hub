@@ -1,194 +1,194 @@
 {
-  "updatedAt": "2026-11-05T10:52:52.542Z",
+  "updatedAt": "2026-11-12T17:31:18.959Z",
   "apps": [
     {
       "slug": "clearinstall",
       "title": "ClearInstall",
       "repo": "dipak5501/clearinstall",
-      "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/clearinstall/",
+      "url": "https://eva-known-inventory-farm.trycloudflare.com/a/clearinstall/",
       "port": 8787,
       "lastFeature": "Enhance ClearInstall with AI-driven Risk Assessment",
-      "updatedAt": "2026-11-05T10:52:52.319Z"
+      "updatedAt": "2026-11-12T17:31:18.610Z"
     },
     {
       "slug": "codeclip",
       "title": "Code Snippet Clipper and Organizer",
       "repo": "dipak5501/codeclip-app",
-      "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/codeclip/",
+      "url": "https://eva-known-inventory-farm.trycloudflare.com/a/codeclip/",
       "port": 8788,
       "lastFeature": "Enhance CodeClip with AI-Powered Features",
-      "updatedAt": "2026-11-05T10:52:52.329Z"
+      "updatedAt": "2026-11-12T17:31:18.620Z"
     },
     {
       "slug": "local-wiki",
       "title": "Local Wiki Explorer",
       "repo": "dipak5501/localwiki-explorer",
-      "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/local-wiki/",
+      "url": "https://eva-known-inventory-farm.trycloudflare.com/a/local-wiki/",
       "port": 8789,
       "lastFeature": "Enhance Local Wiki Explorer with AI-Powered Features",
-      "updatedAt": "2026-11-05T10:52:52.338Z"
+      "updatedAt": "2026-11-12T17:31:18.629Z"
     },
     {
       "slug": "local-music",
       "title": "Local Music Explorer",
       "repo": "dipak5501/local-music-explorer",
-      "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/local-music/",
+      "url": "https://eva-known-inventory-farm.trycloudflare.com/a/local-music/",
       "port": 8790,
       "lastFeature": "Enhance Local Music Explorer",
-      "updatedAt": "2026-11-05T10:52:52.348Z"
+      "updatedAt": "2026-11-12T17:31:18.639Z"
     },
     {
       "slug": "local-crypto",
       "title": "Local Crypto Tracker",
       "repo": "dipak5501/crypto-tracker-local",
-      "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/local-crypto/",
+      "url": "https://eva-known-inventory-farm.trycloudflare.com/a/local-crypto/",
       "port": 8791,
       "lastFeature": "Enhance Local Crypto Tracker with Trend Analysis",
-      "updatedAt": "2026-11-05T10:52:52.358Z"
+      "updatedAt": "2026-11-12T17:31:18.648Z"
     },
     {
       "slug": "local-artists",
       "title": "Local Artists Directory",
       "repo": "dipak5501/local-artists-directory",
-      "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/local-artists/",
+      "url": "https://eva-known-inventory-farm.trycloudflare.com/a/local-artists/",
       "port": 8792,
       "lastFeature": "Enhance Local Artists Directory with AI",
-      "updatedAt": "2026-11-05T10:52:52.369Z"
+      "updatedAt": "2026-11-12T17:31:18.656Z"
     },
     {
       "slug": "codecleaner",
       "title": "Code Cleaner",
       "repo": "dipak5501/code-cleaner-app",
-      "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/codecleaner/",
+      "url": "https://eva-known-inventory-farm.trycloudflare.com/a/codecleaner/",
       "port": 8793,
       "lastFeature": "Enhance Code Cleaner with AI",
-      "updatedAt": "2026-11-05T10:52:52.384Z"
+      "updatedAt": "2026-11-12T17:31:18.665Z"
     },
     {
       "slug": "cleanmydevice",
       "title": "CleanMyDevice",
       "repo": "dipak5501/cleanmydevice-local",
-      "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/cleanmydevice/",
+      "url": "https://eva-known-inventory-farm.trycloudflare.com/a/cleanmydevice/",
       "port": 8794,
       "lastFeature": "Enhance CleanMyDevice with AI-Powered Features",
-      "updatedAt": "2026-11-05T10:52:52.398Z"
+      "updatedAt": "2026-11-12T17:31:18.675Z"
     },
     {
       "slug": "privacy-guard",
       "title": "Privacy Guard",
       "repo": "dipak5501/privacy-guard",
-      "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/privacy-guard/",
+      "url": "https://eva-known-inventory-farm.trycloudflare.com/a/privacy-guard/",
       "port": 8795,
       "lastFeature": "Enhance Privacy Guard with AI-Powered Insights",
-      "updatedAt": "2026-11-05T10:52:52.412Z"
+      "updatedAt": "2026-11-12T17:31:18.684Z"
     },
     {
       "slug": "local-safety",
       "title": "Local Safety Hub",
       "repo": "dipak5501/safety-hub",
-      "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/local-safety/",
+      "url": "https://eva-known-inventory-farm.trycloudflare.com/a/local-safety/",
       "port": 8796,
       "lastFeature": "Enhance Local Safety Hub with AI-Powered Features",
-      "updatedAt": "2026-11-05T10:52:52.439Z"
+      "updatedAt": "2026-11-12T17:31:18.694Z"
     },
     {
       "slug": "local-safety-watch",
       "title": "Local Safety Watch",
       "repo": "dipak5501/safety-watch",
-      "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/local-safety-watch/",
+      "url": "https://eva-known-inventory-farm.trycloudflare.com/a/local-safety-watch/",
       "port": 8797,
       "lastFeature": "Enhance Local Safety Watch with AI-driven Features",
-      "updatedAt": "2026-11-05T10:52:52.456Z"
+      "updatedAt": "2026-11-12T17:31:18.713Z"
     },
     {
       "slug": "flashcard-builder",
       "title": "Flashcard Builder for Language Learning",
       "repo": "dipak5501/lang-flashcards",
-      "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/flashcard-builder/",
+      "url": "https://eva-known-inventory-farm.trycloudflare.com/a/flashcard-builder/",
       "port": 8798,
       "lastFeature": "Enhance Flashcard Builder with AI-Powered Features",
-      "updatedAt": "2026-11-05T10:52:52.466Z"
+      "updatedAt": "2026-11-12T17:31:18.803Z"
     },
     {
       "slug": "local-eventfinder",
       "title": "Local Event Finder",
       "repo": "dipak5501/event-finder-local",
-      "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/local-eventfinder/",
+      "url": "https://eva-known-inventory-farm.trycloudflare.com/a/local-eventfinder/",
       "port": 8799,
       "lastFeature": "Enhance Local Event Finder",
-      "updatedAt": "2026-11-05T10:52:52.480Z"
+      "updatedAt": "2026-11-12T17:31:18.837Z"
     },
     {
       "slug": "py-taskbench",
       "title": "PyTaskBench",
       "repo": null,
-      "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/py-taskbench/",
+      "url": "https://eva-known-inventory-farm.trycloudflare.com/a/py-taskbench/",
       "port": 8800,
       "lastFeature": null,
-      "updatedAt": "2026-11-05T10:52:52.484Z"
+      "updatedAt": "2026-11-12T17:31:18.877Z"
     },
     {
       "slug": "java-desklist",
       "title": "Java DeskList",
       "repo": "dipak5501/java-desklist",
-      "url": "https://lloyd-april-regard-remove.trycloudflare.com/a/java-desklist/",
+      "url": "https://eva-known-inventory-farm.trycloudflare.com/a/java-desklist/",
       "port": 8801,
       "lastFeature": "Enhance Java DeskList with Public Trend Signals",
-      "updatedAt": "2026-11-05T10:52:52.500Z"
+      "updatedAt": "2026-11-12T17:31:18.896Z"
     },
     {
       "slug": "local-security-audit",
       "title": "Local Security Audit Tool",
       "repo": "dipak5501/sec-audit-tool",
-      "url": null,
+      "url": "https://eva-known-inventory-farm.trycloudflare.com/a/local-security-audit/",
       "port": 8802,
       "lastFeature": null,
-      "updatedAt": "2026-11-05"
+      "updatedAt": "2026-11-12T17:31:18.923Z"
     },
     {
       "slug": "local-security-check",
       "title": "Local Security Check Utility",
       "repo": "dipak5501/java-desksec",
-      "url": null,
+      "url": "https://eva-known-inventory-farm.trycloudflare.com/a/local-security-check/",
       "port": 8803,
       "lastFeature": "Enhance Local Security Check Utility",
-      "updatedAt": "2026-11-12T16:25:43.099Z"
+      "updatedAt": "2026-11-12T17:31:18.929Z"
     },
     {
       "slug": "local-task-manager",
       "title": "Local Task Manager",
       "repo": "dipak5501/local-task-manager",
-      "url": null,
+      "url": "https://eva-known-inventory-farm.trycloudflare.com/a/local-task-manager/",
       "port": 8804,
       "lastFeature": null,
-      "updatedAt": "2026-11-07"
+      "updatedAt": "2026-11-12T17:31:18.935Z"
     },
     {
       "slug": "local-storyboard",
       "title": "Local Storyboard Creator",
       "repo": "dipak5501/local-storyboard-java",
-      "url": null,
+      "url": "https://eva-known-inventory-farm.trycloudflare.com/a/local-storyboard/",
       "port": 8805,
       "lastFeature": "Enhance Local Storyboard Creator",
-      "updatedAt": "2026-11-12T16:27:09.870Z"
+      "updatedAt": "2026-11-12T17:31:18.938Z"
     },
     {
       "slug": "local-storyteller",
       "title": "Local Storyteller",
       "repo": "dipak5501/local-storyteller",
-      "url": null,
+      "url": "https://eva-known-inventory-farm.trycloudflare.com/a/local-storyteller/",
       "port": 8806,
       "lastFeature": null,
-      "updatedAt": "2026-11-09"
+      "updatedAt": "2026-11-12T17:31:18.944Z"
     },
     {
       "slug": "local-agent",
       "title": "Local Agent Management Utility",
       "repo": "dipak5501/local-agent-manager",
-      "url": null,
+      "url": "https://eva-known-inventory-farm.trycloudflare.com/a/local-agent/",
       "port": 8807,
       "lastFeature": "Enhance Local Agent Management Utility",
-      "updatedAt": "2026-11-12T16:22:58.941Z"
+      "updatedAt": "2026-11-12T17:31:18.947Z"
     }
   ]
 }

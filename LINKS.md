@@ -1,87 +1,87 @@
 # Direct links
 
-Updated: 2026-11-12T16:30:12.261Z
+Updated: 2026-11-12T17:31:18.987Z
 
 ## ClearInstall
 
-https://lloyd-april-regard-remove.trycloudflare.com/a/clearinstall/
+https://eva-known-inventory-farm.trycloudflare.com/a/clearinstall/
 
 ## Code Snippet Clipper and Organizer
 
-https://lloyd-april-regard-remove.trycloudflare.com/a/codeclip/
+https://eva-known-inventory-farm.trycloudflare.com/a/codeclip/
 
 ## Local Wiki Explorer
 
-https://lloyd-april-regard-remove.trycloudflare.com/a/local-wiki/
+https://eva-known-inventory-farm.trycloudflare.com/a/local-wiki/
 
 ## Local Music Explorer
 
-https://lloyd-april-regard-remove.trycloudflare.com/a/local-music/
+https://eva-known-inventory-farm.trycloudflare.com/a/local-music/
 
 ## Local Crypto Tracker
 
-https://lloyd-april-regard-remove.trycloudflare.com/a/local-crypto/
+https://eva-known-inventory-farm.trycloudflare.com/a/local-crypto/
 
 ## Local Artists Directory
 
-https://lloyd-april-regard-remove.trycloudflare.com/a/local-artists/
+https://eva-known-inventory-farm.trycloudflare.com/a/local-artists/
 
 ## Code Cleaner
 
-https://lloyd-april-regard-remove.trycloudflare.com/a/codecleaner/
+https://eva-known-inventory-farm.trycloudflare.com/a/codecleaner/
 
 ## CleanMyDevice
 
-https://lloyd-april-regard-remove.trycloudflare.com/a/cleanmydevice/
+https://eva-known-inventory-farm.trycloudflare.com/a/cleanmydevice/
 
 ## Privacy Guard
 
-https://lloyd-april-regard-remove.trycloudflare.com/a/privacy-guard/
+https://eva-known-inventory-farm.trycloudflare.com/a/privacy-guard/
 
 ## Local Safety Hub
 
-https://lloyd-april-regard-remove.trycloudflare.com/a/local-safety/
+https://eva-known-inventory-farm.trycloudflare.com/a/local-safety/
 
 ## Local Safety Watch
 
-https://lloyd-april-regard-remove.trycloudflare.com/a/local-safety-watch/
+https://eva-known-inventory-farm.trycloudflare.com/a/local-safety-watch/
 
 ## Flashcard Builder for Language Learning
 
-https://lloyd-april-regard-remove.trycloudflare.com/a/flashcard-builder/
+https://eva-known-inventory-farm.trycloudflare.com/a/flashcard-builder/
 
 ## Local Event Finder
 
-https://lloyd-april-regard-remove.trycloudflare.com/a/local-eventfinder/
+https://eva-known-inventory-farm.trycloudflare.com/a/local-eventfinder/
 
 ## PyTaskBench
 
-https://lloyd-april-regard-remove.trycloudflare.com/a/py-taskbench/
+https://eva-known-inventory-farm.trycloudflare.com/a/py-taskbench/
 
 ## Java DeskList
 
-https://lloyd-april-regard-remove.trycloudflare.com/a/java-desklist/
+https://eva-known-inventory-farm.trycloudflare.com/a/java-desklist/
 
 ## Local Security Audit Tool
 
-_starting — tunnel not ready_
+https://eva-known-inventory-farm.trycloudflare.com/a/local-security-audit/
 
 ## Local Security Check Utility
 
-_starting — tunnel not ready_
+https://eva-known-inventory-farm.trycloudflare.com/a/local-security-check/
 
 ## Local Task Manager
 
-_starting — tunnel not ready_
+https://eva-known-inventory-farm.trycloudflare.com/a/local-task-manager/
 
 ## Local Storyboard Creator
 
-_starting — tunnel not ready_
+https://eva-known-inventory-farm.trycloudflare.com/a/local-storyboard/
 
 ## Local Storyteller
 
-_starting — tunnel not ready_
+https://eva-known-inventory-farm.trycloudflare.com/a/local-storyteller/
 
 ## Local Agent Management Utility
 
-_starting — tunnel not ready_
+https://eva-known-inventory-farm.trycloudflare.com/a/local-agent/

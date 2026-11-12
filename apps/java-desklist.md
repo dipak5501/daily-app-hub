@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://lloyd-april-regard-remove.trycloudflare.com/a/java-desklist/
+https://eva-known-inventory-farm.trycloudflare.com/a/java-desklist/
 
-[Click here to open](https://lloyd-april-regard-remove.trycloudflare.com/a/java-desklist/)
+[Click here to open](https://eva-known-inventory-farm.trycloudflare.com/a/java-desklist/)
 
 - Local: http://127.0.0.1:8801/
 - Source: https://github.com/dipak5501/java-desklist
 - Last feature: Enhance Java DeskList with Public Trend Signals
-- Link updated: 2026-11-05T10:52:52.500Z
+- Link updated: 2026-11-12T17:31:18.896Z

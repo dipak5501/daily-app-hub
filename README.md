@@ -2,15 +2,15 @@
 
 Tap any URL below on your **phone or laptop**. No VPN.
 
-**Last refreshed:** 2026-11-05T10:52:52.542Z
+**Last refreshed:** 2026-11-12T17:31:18.959Z
 
 ## Live apps
 
 ### ClearInstall
 
-**https://lloyd-april-regard-remove.trycloudflare.com/a/clearinstall/**
+**https://eva-known-inventory-farm.trycloudflare.com/a/clearinstall/**
 
-[Open ClearInstall](https://lloyd-april-regard-remove.trycloudflare.com/a/clearinstall/)
+[Open ClearInstall](https://eva-known-inventory-farm.trycloudflare.com/a/clearinstall/)
 
 Source: https://github.com/dipak5501/clearinstall
 Local port: `127.0.0.1:8787`
@@ -19,9 +19,9 @@ Local port: `127.0.0.1:8787`
 
 ### Code Snippet Clipper and Organizer
 
-**https://lloyd-april-regard-remove.trycloudflare.com/a/codeclip/**
+**https://eva-known-inventory-farm.trycloudflare.com/a/codeclip/**
 
-[Open Code Snippet Clipper and Organizer](https://lloyd-april-regard-remove.trycloudflare.com/a/codeclip/)
+[Open Code Snippet Clipper and Organizer](https://eva-known-inventory-farm.trycloudflare.com/a/codeclip/)
 
 Source: https://github.com/dipak5501/codeclip-app
 Local port: `127.0.0.1:8788`
@@ -30,9 +30,9 @@ Local port: `127.0.0.1:8788`
 
 ### Local Wiki Explorer
 
-**https://lloyd-april-regard-remove.trycloudflare.com/a/local-wiki/**
+**https://eva-known-inventory-farm.trycloudflare.com/a/local-wiki/**
 
-[Open Local Wiki Explorer](https://lloyd-april-regard-remove.trycloudflare.com/a/local-wiki/)
+[Open Local Wiki Explorer](https://eva-known-inventory-farm.trycloudflare.com/a/local-wiki/)
 
 Source: https://github.com/dipak5501/localwiki-explorer
 Local port: `127.0.0.1:8789`
@@ -41,9 +41,9 @@ Local port: `127.0.0.1:8789`
 
 ### Local Music Explorer
 
-**https://lloyd-april-regard-remove.trycloudflare.com/a/local-music/**
+**https://eva-known-inventory-farm.trycloudflare.com/a/local-music/**
 
-[Open Local Music Explorer](https://lloyd-april-regard-remove.trycloudflare.com/a/local-music/)
+[Open Local Music Explorer](https://eva-known-inventory-farm.trycloudflare.com/a/local-music/)
 
 Source: https://github.com/dipak5501/local-music-explorer
 Local port: `127.0.0.1:8790`
@@ -52,9 +52,9 @@ Local port: `127.0.0.1:8790`
 
 ### Local Crypto Tracker
 
-**https://lloyd-april-regard-remove.trycloudflare.com/a/local-crypto/**
+**https://eva-known-inventory-farm.trycloudflare.com/a/local-crypto/**
 
-[Open Local Crypto Tracker](https://lloyd-april-regard-remove.trycloudflare.com/a/local-crypto/)
+[Open Local Crypto Tracker](https://eva-known-inventory-farm.trycloudflare.com/a/local-crypto/)
 
 Source: https://github.com/dipak5501/crypto-tracker-local
 Local port: `127.0.0.1:8791`
@@ -63,9 +63,9 @@ Local port: `127.0.0.1:8791`
 
 ### Local Artists Directory
 
-**https://lloyd-april-regard-remove.trycloudflare.com/a/local-artists/**
+**https://eva-known-inventory-farm.trycloudflare.com/a/local-artists/**
 
-[Open Local Artists Directory](https://lloyd-april-regard-remove.trycloudflare.com/a/local-artists/)
+[Open Local Artists Directory](https://eva-known-inventory-farm.trycloudflare.com/a/local-artists/)
 
 Source: https://github.com/dipak5501/local-artists-directory
 Local port: `127.0.0.1:8792`
@@ -74,9 +74,9 @@ Local port: `127.0.0.1:8792`
 
 ### Code Cleaner
 
-**https://lloyd-april-regard-remove.trycloudflare.com/a/codecleaner/**
+**https://eva-known-inventory-farm.trycloudflare.com/a/codecleaner/**
 
-[Open Code Cleaner](https://lloyd-april-regard-remove.trycloudflare.com/a/codecleaner/)
+[Open Code Cleaner](https://eva-known-inventory-farm.trycloudflare.com/a/codecleaner/)
 
 Source: https://github.com/dipak5501/code-cleaner-app
 Local port: `127.0.0.1:8793`
@@ -85,9 +85,9 @@ Local port: `127.0.0.1:8793`
 
 ### CleanMyDevice
 
-**https://lloyd-april-regard-remove.trycloudflare.com/a/cleanmydevice/**
+**https://eva-known-inventory-farm.trycloudflare.com/a/cleanmydevice/**
 
-[Open CleanMyDevice](https://lloyd-april-regard-remove.trycloudflare.com/a/cleanmydevice/)
+[Open CleanMyDevice](https://eva-known-inventory-farm.trycloudflare.com/a/cleanmydevice/)
 
 Source: https://github.com/dipak5501/cleanmydevice-local
 Local port: `127.0.0.1:8794`
@@ -96,9 +96,9 @@ Local port: `127.0.0.1:8794`
 
 ### Privacy Guard
 
-**https://lloyd-april-regard-remove.trycloudflare.com/a/privacy-guard/**
+**https://eva-known-inventory-farm.trycloudflare.com/a/privacy-guard/**
 
-[Open Privacy Guard](https://lloyd-april-regard-remove.trycloudflare.com/a/privacy-guard/)
+[Open Privacy Guard](https://eva-known-inventory-farm.trycloudflare.com/a/privacy-guard/)
 
 Source: https://github.com/dipak5501/privacy-guard
 Local port: `127.0.0.1:8795`
@@ -107,9 +107,9 @@ Local port: `127.0.0.1:8795`
 
 ### Local Safety Hub
 
-**https://lloyd-april-regard-remove.trycloudflare.com/a/local-safety/**
+**https://eva-known-inventory-farm.trycloudflare.com/a/local-safety/**
 
-[Open Local Safety Hub](https://lloyd-april-regard-remove.trycloudflare.com/a/local-safety/)
+[Open Local Safety Hub](https://eva-known-inventory-farm.trycloudflare.com/a/local-safety/)
 
 Source: https://github.com/dipak5501/safety-hub
 Local port: `127.0.0.1:8796`
@@ -118,9 +118,9 @@ Local port: `127.0.0.1:8796`
 
 ### Local Safety Watch
 
-**https://lloyd-april-regard-remove.trycloudflare.com/a/local-safety-watch/**
+**https://eva-known-inventory-farm.trycloudflare.com/a/local-safety-watch/**
 
-[Open Local Safety Watch](https://lloyd-april-regard-remove.trycloudflare.com/a/local-safety-watch/)
+[Open Local Safety Watch](https://eva-known-inventory-farm.trycloudflare.com/a/local-safety-watch/)
 
 Source: https://github.com/dipak5501/safety-watch
 Local port: `127.0.0.1:8797`
@@ -129,9 +129,9 @@ Local port: `127.0.0.1:8797`
 
 ### Flashcard Builder for Language Learning
 
-**https://lloyd-april-regard-remove.trycloudflare.com/a/flashcard-builder/**
+**https://eva-known-inventory-farm.trycloudflare.com/a/flashcard-builder/**
 
-[Open Flashcard Builder for Language Learning](https://lloyd-april-regard-remove.trycloudflare.com/a/flashcard-builder/)
+[Open Flashcard Builder for Language Learning](https://eva-known-inventory-farm.trycloudflare.com/a/flashcard-builder/)
 
 Source: https://github.com/dipak5501/lang-flashcards
 Local port: `127.0.0.1:8798`
@@ -140,9 +140,9 @@ Local port: `127.0.0.1:8798`
 
 ### Local Event Finder
 
-**https://lloyd-april-regard-remove.trycloudflare.com/a/local-eventfinder/**
+**https://eva-known-inventory-farm.trycloudflare.com/a/local-eventfinder/**
 
-[Open Local Event Finder](https://lloyd-april-regard-remove.trycloudflare.com/a/local-eventfinder/)
+[Open Local Event Finder](https://eva-known-inventory-farm.trycloudflare.com/a/local-eventfinder/)
 
 Source: https://github.com/dipak5501/event-finder-local
 Local port: `127.0.0.1:8799`
@@ -151,9 +151,9 @@ Local port: `127.0.0.1:8799`
 
 ### PyTaskBench
 
-**https://lloyd-april-regard-remove.trycloudflare.com/a/py-taskbench/**
+**https://eva-known-inventory-farm.trycloudflare.com/a/py-taskbench/**
 
-[Open PyTaskBench](https://lloyd-april-regard-remove.trycloudflare.com/a/py-taskbench/)
+[Open PyTaskBench](https://eva-known-inventory-farm.trycloudflare.com/a/py-taskbench/)
 
 Local port: `127.0.0.1:8800`
 
@@ -161,9 +161,9 @@ Local port: `127.0.0.1:8800`
 
 ### Java DeskList
 
-**https://lloyd-april-regard-remove.trycloudflare.com/a/java-desklist/**
+**https://eva-known-inventory-farm.trycloudflare.com/a/java-desklist/**
 
-[Open Java DeskList](https://lloyd-april-regard-remove.trycloudflare.com/a/java-desklist/)
+[Open Java DeskList](https://eva-known-inventory-farm.trycloudflare.com/a/java-desklist/)
 
 Source: https://github.com/dipak5501/java-desklist
 Local port: `127.0.0.1:8801`
@@ -172,7 +172,9 @@ Local port: `127.0.0.1:8801`
 
 ### Local Security Audit Tool
 
-_Link refreshing on the Mac Studio — reload this page in a minute._
+**https://eva-known-inventory-farm.trycloudflare.com/a/local-security-audit/**
+
+[Open Local Security Audit Tool](https://eva-known-inventory-farm.trycloudflare.com/a/local-security-audit/)
 
 Source: https://github.com/dipak5501/sec-audit-tool
 Local port: `127.0.0.1:8802`
@@ -181,7 +183,9 @@ Local port: `127.0.0.1:8802`
 
 ### Local Security Check Utility
 
-_Link refreshing on the Mac Studio — reload this page in a minute._
+**https://eva-known-inventory-farm.trycloudflare.com/a/local-security-check/**
+
+[Open Local Security Check Utility](https://eva-known-inventory-farm.trycloudflare.com/a/local-security-check/)
 
 Source: https://github.com/dipak5501/java-desksec
 Local port: `127.0.0.1:8803`
@@ -190,7 +194,9 @@ Local port: `127.0.0.1:8803`
 
 ### Local Task Manager
 
-_Link refreshing on the Mac Studio — reload this page in a minute._
+**https://eva-known-inventory-farm.trycloudflare.com/a/local-task-manager/**
+
+[Open Local Task Manager](https://eva-known-inventory-farm.trycloudflare.com/a/local-task-manager/)
 
 Source: https://github.com/dipak5501/local-task-manager
 Local port: `127.0.0.1:8804`
@@ -199,7 +205,9 @@ Local port: `127.0.0.1:8804`
 
 ### Local Storyboard Creator
 
-_Link refreshing on the Mac Studio — reload this page in a minute._
+**https://eva-known-inventory-farm.trycloudflare.com/a/local-storyboard/**
+
+[Open Local Storyboard Creator](https://eva-known-inventory-farm.trycloudflare.com/a/local-storyboard/)
 
 Source: https://github.com/dipak5501/local-storyboard-java
 Local port: `127.0.0.1:8805`
@@ -208,7 +216,9 @@ Local port: `127.0.0.1:8805`
 
 ### Local Storyteller
 
-_Link refreshing on the Mac Studio — reload this page in a minute._
+**https://eva-known-inventory-farm.trycloudflare.com/a/local-storyteller/**
+
+[Open Local Storyteller](https://eva-known-inventory-farm.trycloudflare.com/a/local-storyteller/)
 
 Source: https://github.com/dipak5501/local-storyteller
 Local port: `127.0.0.1:8806`
@@ -217,7 +227,9 @@ Local port: `127.0.0.1:8806`
 
 ### Local Agent Management Utility
 
-_Link refreshing on the Mac Studio — reload this page in a minute._
+**https://eva-known-inventory-farm.trycloudflare.com/a/local-agent/**
+
+[Open Local Agent Management Utility](https://eva-known-inventory-farm.trycloudflare.com/a/local-agent/)
 
 Source: https://github.com/dipak5501/local-agent-manager
 Local port: `127.0.0.1:8807`
