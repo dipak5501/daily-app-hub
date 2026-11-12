@@ -8,5 +8,5 @@ https://reproduced-barrier-sight-fashion.trycloudflare.com/a/local-wiki/
 
 - Local: http://127.0.0.1:8789/
 - Source: https://github.com/dipak5501/localwiki-explorer
-- Last feature: Enhance Local Wiki Explorer with AI-Powered Features
+- Last feature: Enhance Local Wiki Explorer with AI and Interactive Features
 - Link updated: 2026-11-12T17:31:58.160Z
