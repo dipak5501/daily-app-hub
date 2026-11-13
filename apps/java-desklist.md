@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://rebound-beverly-wallpapers-module.trycloudflare.com/a/java-desklist/
+https://acdbentity-assists-equation-tent.trycloudflare.com/a/java-desklist/
 
-[Click here to open](https://rebound-beverly-wallpapers-module.trycloudflare.com/a/java-desklist/)
+[Click here to open](https://acdbentity-assists-equation-tent.trycloudflare.com/a/java-desklist/)
 
 - Local: http://127.0.0.1:8801/
 - Source: https://github.com/dipak5501/java-desklist
 - Last feature: Enhancements for Java DeskList
-- Link updated: 2026-11-12T22:46:30.359Z
+- Link updated: 2026-11-13T22:46:50.849Z

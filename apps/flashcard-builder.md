@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://rebound-beverly-wallpapers-module.trycloudflare.com/a/flashcard-builder/
+https://acdbentity-assists-equation-tent.trycloudflare.com/a/flashcard-builder/
 
-[Click here to open](https://rebound-beverly-wallpapers-module.trycloudflare.com/a/flashcard-builder/)
+[Click here to open](https://acdbentity-assists-equation-tent.trycloudflare.com/a/flashcard-builder/)
 
 - Local: http://127.0.0.1:8798/
 - Source: https://github.com/dipak5501/lang-flashcards
 - Last feature: Enhance Flashcard Builder with AI-Powered Features
-- Link updated: 2026-11-12T22:46:30.345Z
+- Link updated: 2026-11-13T22:46:50.819Z
