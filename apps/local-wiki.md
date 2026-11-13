@@ -8,5 +8,5 @@ https://rebound-beverly-wallpapers-module.trycloudflare.com/a/local-wiki/
 
 - Local: http://127.0.0.1:8789/
 - Source: https://github.com/dipak5501/localwiki-explorer
-- Last feature: Enhance Local Wiki Explorer with AI and Interactive Features
+- Last feature: Enhance Local Wiki Explorer with AI-Powered Features
 - Link updated: 2026-11-12T22:46:30.276Z
