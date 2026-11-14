@@ -7,7 +7,7 @@
       "repo": "dipak5501/clearinstall",
       "url": "https://acdbentity-assists-equation-tent.trycloudflare.com/a/clearinstall/",
       "port": 8787,
-      "lastFeature": "Enhance ClearInstall with Real-Time Risk Assessment",
+      "lastFeature": "Enhance ClearInstall with Real-Time Dependency Risk Alerts",
       "updatedAt": "2026-11-13T22:46:50.707Z"
     },
     {
@@ -25,7 +25,7 @@
       "repo": "dipak5501/localwiki-explorer",
       "url": "https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-wiki/",
       "port": 8789,
-      "lastFeature": "Enhance Local Wiki Explorer with Public Trend Signals",
+      "lastFeature": "Enhance Local Wiki Explorer with Trend Signals",
       "updatedAt": "2026-11-13T22:46:50.726Z"
     },
     {
@@ -34,7 +34,7 @@
       "repo": "dipak5501/local-music-explorer",
       "url": "https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-music/",
       "port": 8790,
-      "lastFeature": "Enhance Local Music Explorer",
+      "lastFeature": "Enhance Local Music Explorer with Trend Signals",
       "updatedAt": "2026-11-13T22:46:50.734Z"
     },
     {
@@ -43,7 +43,7 @@
       "repo": "dipak5501/crypto-tracker-local",
       "url": "https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-crypto/",
       "port": 8791,
-      "lastFeature": "Enhance Local Crypto Tracker with Trend Analysis",
+      "lastFeature": "Enhancing Local Crypto Tracker",
       "updatedAt": "2026-11-13T22:46:50.744Z"
     },
     {
@@ -70,7 +70,7 @@
       "repo": "dipak5501/cleanmydevice-local",
       "url": "https://acdbentity-assists-equation-tent.trycloudflare.com/a/cleanmydevice/",
       "port": 8794,
-      "lastFeature": "Enhance CleanMyDevice",
+      "lastFeature": "Enhance CleanMyDevice with Public Trend Signals",
       "updatedAt": "2026-11-13T22:46:50.771Z"
     },
     {
@@ -79,7 +79,7 @@
       "repo": "dipak5501/privacy-guard",
       "url": "https://acdbentity-assists-equation-tent.trycloudflare.com/a/privacy-guard/",
       "port": 8795,
-      "lastFeature": "Enhance Privacy Guard with Real-Time Monitoring Features",
+      "lastFeature": "Enhance Privacy Guard with Trend Signals",
       "updatedAt": "2026-11-13T22:46:50.782Z"
     },
     {
@@ -88,7 +88,7 @@
       "repo": "dipak5501/safety-hub",
       "url": "https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-safety/",
       "port": 8796,
-      "lastFeature": "Enhance Local Safety Hub with Trend Signals",
+      "lastFeature": "Enhancing Local Safety Hub with Trend Signals",
       "updatedAt": "2026-11-13T22:46:50.793Z"
     },
     {
@@ -97,7 +97,7 @@
       "repo": "dipak5501/safety-watch",
       "url": "https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-safety-watch/",
       "port": 8797,
-      "lastFeature": "Enhance Local Safety Watch with Public Trend Signals",
+      "lastFeature": "Enhance Local Safety Watch with Trend Signals",
       "updatedAt": "2026-11-13T22:46:50.807Z"
     },
     {
@@ -106,7 +106,7 @@
       "repo": "dipak5501/lang-flashcards",
       "url": "https://acdbentity-assists-equation-tent.trycloudflare.com/a/flashcard-builder/",
       "port": 8798,
-      "lastFeature": "Enhance Flashcard Builder with Trend Signals",
+      "lastFeature": "Enhance Flashcard Builder with Public Trend Signals",
       "updatedAt": "2026-11-13T22:46:50.819Z"
     },
     {
@@ -169,7 +169,7 @@
       "repo": "dipak5501/local-storyboard-java",
       "url": "https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-storyboard/",
       "port": 8805,
-      "lastFeature": "Enhancing Local Storyboard Creator",
+      "lastFeature": "Enhance Local Storyboard Creator",
       "updatedAt": "2026-11-13T22:46:50.935Z"
     },
     {
@@ -187,7 +187,7 @@
       "repo": "dipak5501/local-agent-manager",
       "url": "https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-agent/",
       "port": 8807,
-      "lastFeature": "Enhance Local Agent Management Utility",
+      "lastFeature": "Enhancing Local-Agent Management Utility",
       "updatedAt": "2026-11-13T22:46:50.957Z"
     }
   ]
