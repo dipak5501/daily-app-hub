@@ -236,6 +236,15 @@ Local port: `127.0.0.1:8807`
 
 ---
 
+### Task Coach for Local Task Management
+
+_Link refreshing on the Mac Studio — reload this page in a minute._
+
+Source: https://github.com/dipak5501/task-coach-py
+Local port: `127.0.0.1:8808`
+
+---
+
 ## Also see
 
 - [LINKS.md](./LINKS.md) — plain URL list
