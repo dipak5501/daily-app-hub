@@ -1,6 +1,6 @@
 # Direct links
 
-Updated: 2026-11-16T16:36:32.986Z
+Updated: 2026-11-16T19:43:12.474Z
 
 ## ClearInstall
 
@@ -87,5 +87,9 @@ https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-storyteller/
 https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-agent/
 
 ## Task Coach for Local Task Management
+
+_starting — tunnel not ready_
+
+## Local Task Management and Checklist Tool
 
 _starting — tunnel not ready_

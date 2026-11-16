@@ -245,6 +245,14 @@ Local port: `127.0.0.1:8808`
 
 ---
 
+### Local Task Management and Checklist Tool
+
+_Link refreshing on the Mac Studio — reload this page in a minute._
+
+Local port: `127.0.0.1:8809`
+
+---
+
 ## Also see
 
 - [LINKS.md](./LINKS.md) — plain URL list
