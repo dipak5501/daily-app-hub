@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/clearinstall/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/clearinstall/
 
-[Click here to open](https://acdbentity-assists-equation-tent.trycloudflare.com/a/clearinstall/)
+[Click here to open](https://ruby-lean-ratios-archive.trycloudflare.com/a/clearinstall/)
 
 - Local: http://127.0.0.1:8787/
 - Source: https://github.com/dipak5501/clearinstall
 - Last feature: Enhance ClearInstall with Modern Security Insights
-- Link updated: 2026-11-13T22:46:50.707Z
+- Link updated: 2026-11-17T22:47:29.042Z

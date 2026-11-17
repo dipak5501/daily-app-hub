@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-safety/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/local-safety/
 
-[Click here to open](https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-safety/)
+[Click here to open](https://ruby-lean-ratios-archive.trycloudflare.com/a/local-safety/)
 
 - Local: http://127.0.0.1:8796/
 - Source: https://github.com/dipak5501/safety-hub
 - Last feature: Enhance Local Safety Hub with AI and Community Engagement
-- Link updated: 2026-11-13T22:46:50.793Z
+- Link updated: 2026-11-17T22:47:29.137Z

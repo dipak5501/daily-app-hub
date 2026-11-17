@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/privacy-guard/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/privacy-guard/
 
-[Click here to open](https://acdbentity-assists-equation-tent.trycloudflare.com/a/privacy-guard/)
+[Click here to open](https://ruby-lean-ratios-archive.trycloudflare.com/a/privacy-guard/)
 
 - Local: http://127.0.0.1:8795/
 - Source: https://github.com/dipak5501/privacy-guard
 - Last feature: Enhance Privacy Guard with Real-Time Monitoring Features
-- Link updated: 2026-11-13T22:46:50.782Z
+- Link updated: 2026-11-17T22:47:29.124Z

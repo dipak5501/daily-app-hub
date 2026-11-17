@@ -1,95 +1,95 @@
 # Direct links
 
-Updated: 2026-11-17T20:32:45.384Z
+Updated: 2026-11-17T22:47:29.423Z
 
 ## ClearInstall
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/clearinstall/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/clearinstall/
 
 ## Code Snippet Clipper and Organizer
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/codeclip/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/codeclip/
 
 ## Local Wiki Explorer
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-wiki/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/local-wiki/
 
 ## Local Music Explorer
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-music/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/local-music/
 
 ## Local Crypto Tracker
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-crypto/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/local-crypto/
 
 ## Local Artists Directory
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-artists/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/local-artists/
 
 ## Code Cleaner
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/codecleaner/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/codecleaner/
 
 ## CleanMyDevice
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/cleanmydevice/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/cleanmydevice/
 
 ## Privacy Guard
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/privacy-guard/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/privacy-guard/
 
 ## Local Safety Hub
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-safety/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/local-safety/
 
 ## Local Safety Watch
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-safety-watch/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/local-safety-watch/
 
 ## Flashcard Builder for Language Learning
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/flashcard-builder/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/flashcard-builder/
 
 ## Local Event Finder
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-eventfinder/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/local-eventfinder/
 
 ## PyTaskBench
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/py-taskbench/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/py-taskbench/
 
 ## Java DeskList
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/java-desklist/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/java-desklist/
 
 ## Local Security Audit Tool
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-security-audit/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/local-security-audit/
 
 ## Local Security Check Utility
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-security-check/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/local-security-check/
 
 ## Local Task Manager
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-task-manager/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/local-task-manager/
 
 ## Local Storyboard Creator
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-storyboard/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/local-storyboard/
 
 ## Local Storyteller
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-storyteller/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/local-storyteller/
 
 ## Local Agent Management Utility
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-agent/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/local-agent/
 
 ## Task Coach for Local Task Management
 
-_starting — tunnel not ready_
+https://ruby-lean-ratios-archive.trycloudflare.com/a/py-taskcoach/
 
 ## Local Task Management and Checklist Tool
 
-_starting — tunnel not ready_
+https://ruby-lean-ratios-archive.trycloudflare.com/a/local-taskcoach/

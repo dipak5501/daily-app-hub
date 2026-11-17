@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-agent/
+https://ruby-lean-ratios-archive.trycloudflare.com/a/local-agent/
 
-[Click here to open](https://acdbentity-assists-equation-tent.trycloudflare.com/a/local-agent/)
+[Click here to open](https://ruby-lean-ratios-archive.trycloudflare.com/a/local-agent/)
 
 - Local: http://127.0.0.1:8807/
 - Source: https://github.com/dipak5501/local-agent-manager
 - Last feature: Enhance Local-Agent Management Utility
-- Link updated: 2026-11-13T22:46:50.957Z
+- Link updated: 2026-11-17T22:47:29.387Z
