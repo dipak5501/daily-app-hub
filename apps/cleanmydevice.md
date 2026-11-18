@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://ruby-lean-ratios-archive.trycloudflare.com/a/cleanmydevice/
+https://concerning-february-sbjct-hey.trycloudflare.com/a/cleanmydevice/
 
-[Click here to open](https://ruby-lean-ratios-archive.trycloudflare.com/a/cleanmydevice/)
+[Click here to open](https://concerning-february-sbjct-hey.trycloudflare.com/a/cleanmydevice/)
 
 - Local: http://127.0.0.1:8794/
 - Source: https://github.com/dipak5501/cleanmydevice-local
 - Last feature: Enhance CleanMyDevice with Public Trend Signals
-- Link updated: 2026-11-17T22:47:29.110Z
+- Link updated: 2026-11-18T08:48:13.817Z

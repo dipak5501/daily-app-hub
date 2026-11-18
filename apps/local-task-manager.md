@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://ruby-lean-ratios-archive.trycloudflare.com/a/local-task-manager/
+https://concerning-february-sbjct-hey.trycloudflare.com/a/local-task-manager/
 
-[Click here to open](https://ruby-lean-ratios-archive.trycloudflare.com/a/local-task-manager/)
+[Click here to open](https://concerning-february-sbjct-hey.trycloudflare.com/a/local-task-manager/)
 
 - Local: http://127.0.0.1:8804/
 - Source: https://github.com/dipak5501/local-task-manager
 - Last feature: —
-- Link updated: 2026-11-17T22:47:29.349Z
+- Link updated: 2026-11-18T08:48:14.000Z

@@ -1,212 +1,212 @@
 {
-  "updatedAt": "2026-11-17T22:47:29.397Z",
+  "updatedAt": "2026-11-18T08:48:14.077Z",
   "apps": [
     {
       "slug": "clearinstall",
       "title": "ClearInstall",
       "repo": "dipak5501/clearinstall",
-      "url": "https://ruby-lean-ratios-archive.trycloudflare.com/a/clearinstall/",
+      "url": "https://concerning-february-sbjct-hey.trycloudflare.com/a/clearinstall/",
       "port": 8787,
       "lastFeature": "Enhance ClearInstall with Real-Time Dependency Analysis",
-      "updatedAt": "2026-11-17T22:47:29.042Z"
+      "updatedAt": "2026-11-18T08:48:13.748Z"
     },
     {
       "slug": "codeclip",
       "title": "Code Snippet Clipper and Organizer",
       "repo": "dipak5501/codeclip-app",
-      "url": "https://ruby-lean-ratios-archive.trycloudflare.com/a/codeclip/",
+      "url": "https://concerning-february-sbjct-hey.trycloudflare.com/a/codeclip/",
       "port": 8788,
       "lastFeature": "Enhance CodeClip with Trend Signals",
-      "updatedAt": "2026-11-17T22:47:29.052Z"
+      "updatedAt": "2026-11-18T08:48:13.759Z"
     },
     {
       "slug": "local-wiki",
       "title": "Local Wiki Explorer",
       "repo": "dipak5501/localwiki-explorer",
-      "url": "https://ruby-lean-ratios-archive.trycloudflare.com/a/local-wiki/",
+      "url": "https://concerning-february-sbjct-hey.trycloudflare.com/a/local-wiki/",
       "port": 8789,
       "lastFeature": "Enhance Local Wiki Explorer with Trend Signals",
-      "updatedAt": "2026-11-17T22:47:29.060Z"
+      "updatedAt": "2026-11-18T08:48:13.769Z"
     },
     {
       "slug": "local-music",
       "title": "Local Music Explorer",
       "repo": "dipak5501/local-music-explorer",
-      "url": "https://ruby-lean-ratios-archive.trycloudflare.com/a/local-music/",
+      "url": "https://concerning-february-sbjct-hey.trycloudflare.com/a/local-music/",
       "port": 8790,
       "lastFeature": "Enhance Local Music Explorer with Public Trend Signals",
-      "updatedAt": "2026-11-17T22:47:29.070Z"
+      "updatedAt": "2026-11-18T08:48:13.779Z"
     },
     {
       "slug": "local-crypto",
       "title": "Local Crypto Tracker",
       "repo": "dipak5501/crypto-tracker-local",
-      "url": "https://ruby-lean-ratios-archive.trycloudflare.com/a/local-crypto/",
+      "url": "https://concerning-february-sbjct-hey.trycloudflare.com/a/local-crypto/",
       "port": 8791,
       "lastFeature": "Enhance Local Crypto Tracker with Public Trend Signals",
-      "updatedAt": "2026-11-17T22:47:29.079Z"
+      "updatedAt": "2026-11-18T08:48:13.788Z"
     },
     {
       "slug": "local-artists",
       "title": "Local Artists Directory",
       "repo": "dipak5501/local-artists-directory",
-      "url": "https://ruby-lean-ratios-archive.trycloudflare.com/a/local-artists/",
+      "url": "https://concerning-february-sbjct-hey.trycloudflare.com/a/local-artists/",
       "port": 8792,
       "lastFeature": "Enhance Local Artists Directory",
-      "updatedAt": "2026-11-17T22:47:29.089Z"
+      "updatedAt": "2026-11-18T08:48:13.798Z"
     },
     {
       "slug": "codecleaner",
       "title": "Code Cleaner",
       "repo": "dipak5501/code-cleaner-app",
-      "url": "https://ruby-lean-ratios-archive.trycloudflare.com/a/codecleaner/",
+      "url": "https://concerning-february-sbjct-hey.trycloudflare.com/a/codecleaner/",
       "port": 8793,
       "lastFeature": "Enhance Code Cleaner with AI-Powered Features",
-      "updatedAt": "2026-11-17T22:47:29.099Z"
+      "updatedAt": "2026-11-18T08:48:13.808Z"
     },
     {
       "slug": "cleanmydevice",
       "title": "CleanMyDevice",
       "repo": "dipak5501/cleanmydevice-local",
-      "url": "https://ruby-lean-ratios-archive.trycloudflare.com/a/cleanmydevice/",
+      "url": "https://concerning-february-sbjct-hey.trycloudflare.com/a/cleanmydevice/",
       "port": 8794,
       "lastFeature": "Enhance CleanMyDevice with Public Trend Signals",
-      "updatedAt": "2026-11-17T22:47:29.110Z"
+      "updatedAt": "2026-11-18T08:48:13.817Z"
     },
     {
       "slug": "privacy-guard",
       "title": "Privacy Guard",
       "repo": "dipak5501/privacy-guard",
-      "url": "https://ruby-lean-ratios-archive.trycloudflare.com/a/privacy-guard/",
+      "url": "https://concerning-february-sbjct-hey.trycloudflare.com/a/privacy-guard/",
       "port": 8795,
       "lastFeature": "Enhance Privacy Guard with Real-Time Monitoring Features",
-      "updatedAt": "2026-11-17T22:47:29.124Z"
+      "updatedAt": "2026-11-18T08:48:13.830Z"
     },
     {
       "slug": "local-safety",
       "title": "Local Safety Hub",
       "repo": "dipak5501/safety-hub",
-      "url": "https://ruby-lean-ratios-archive.trycloudflare.com/a/local-safety/",
+      "url": "https://concerning-february-sbjct-hey.trycloudflare.com/a/local-safety/",
       "port": 8796,
       "lastFeature": "Enhance Local Safety Hub with AI and Community Features",
-      "updatedAt": "2026-11-17T22:47:29.137Z"
+      "updatedAt": "2026-11-18T08:48:13.862Z"
     },
     {
       "slug": "local-safety-watch",
       "title": "Local Safety Watch",
       "repo": "dipak5501/safety-watch",
-      "url": "https://ruby-lean-ratios-archive.trycloudflare.com/a/local-safety-watch/",
+      "url": "https://concerning-february-sbjct-hey.trycloudflare.com/a/local-safety-watch/",
       "port": 8797,
       "lastFeature": "Enhance Local Safety Watch with AI Verification",
-      "updatedAt": "2026-11-17T22:47:29.152Z"
+      "updatedAt": "2026-11-18T08:48:13.911Z"
     },
     {
       "slug": "flashcard-builder",
       "title": "Flashcard Builder for Language Learning",
       "repo": "dipak5501/lang-flashcards",
-      "url": "https://ruby-lean-ratios-archive.trycloudflare.com/a/flashcard-builder/",
+      "url": "https://concerning-february-sbjct-hey.trycloudflare.com/a/flashcard-builder/",
       "port": 8798,
       "lastFeature": "Enhance Flashcard Builder with AI-Powered Features",
-      "updatedAt": "2026-11-17T22:47:29.186Z"
+      "updatedAt": "2026-11-18T08:48:13.924Z"
     },
     {
       "slug": "local-eventfinder",
       "title": "Local Event Finder",
       "repo": "dipak5501/event-finder-local",
-      "url": "https://ruby-lean-ratios-archive.trycloudflare.com/a/local-eventfinder/",
+      "url": "https://concerning-february-sbjct-hey.trycloudflare.com/a/local-eventfinder/",
       "port": 8799,
       "lastFeature": "Enhance Local Event Finder",
-      "updatedAt": "2026-11-17T22:47:29.249Z"
+      "updatedAt": "2026-11-18T08:48:13.938Z"
     },
     {
       "slug": "py-taskbench",
       "title": "PyTaskBench",
       "repo": null,
-      "url": "https://ruby-lean-ratios-archive.trycloudflare.com/a/py-taskbench/",
+      "url": "https://concerning-february-sbjct-hey.trycloudflare.com/a/py-taskbench/",
       "port": 8800,
       "lastFeature": null,
-      "updatedAt": "2026-11-17T22:47:29.252Z"
+      "updatedAt": "2026-11-18T08:48:13.943Z"
     },
     {
       "slug": "java-desklist",
       "title": "Java DeskList",
       "repo": "dipak5501/java-desklist",
-      "url": "https://ruby-lean-ratios-archive.trycloudflare.com/a/java-desklist/",
+      "url": "https://concerning-february-sbjct-hey.trycloudflare.com/a/java-desklist/",
       "port": 8801,
       "lastFeature": "Improvements for Java DeskList",
-      "updatedAt": "2026-11-17T22:47:29.266Z"
+      "updatedAt": "2026-11-18T08:48:13.959Z"
     },
     {
       "slug": "local-security-audit",
       "title": "Local Security Audit Tool",
       "repo": "dipak5501/sec-audit-tool",
-      "url": "https://ruby-lean-ratios-archive.trycloudflare.com/a/local-security-audit/",
+      "url": "https://concerning-february-sbjct-hey.trycloudflare.com/a/local-security-audit/",
       "port": 8802,
       "lastFeature": null,
-      "updatedAt": "2026-11-17T22:47:29.317Z"
+      "updatedAt": "2026-11-18T08:48:13.972Z"
     },
     {
       "slug": "local-security-check",
       "title": "Local Security Check Utility",
       "repo": "dipak5501/java-desksec",
-      "url": "https://ruby-lean-ratios-archive.trycloudflare.com/a/local-security-check/",
+      "url": "https://concerning-february-sbjct-hey.trycloudflare.com/a/local-security-check/",
       "port": 8803,
       "lastFeature": "Enhance Local Security Check Utility",
-      "updatedAt": "2026-11-17T22:47:29.333Z"
+      "updatedAt": "2026-11-18T08:48:13.987Z"
     },
     {
       "slug": "local-task-manager",
       "title": "Local Task Manager",
       "repo": "dipak5501/local-task-manager",
-      "url": "https://ruby-lean-ratios-archive.trycloudflare.com/a/local-task-manager/",
+      "url": "https://concerning-february-sbjct-hey.trycloudflare.com/a/local-task-manager/",
       "port": 8804,
       "lastFeature": null,
-      "updatedAt": "2026-11-17T22:47:29.349Z"
+      "updatedAt": "2026-11-18T08:48:14.000Z"
     },
     {
       "slug": "local-storyboard",
       "title": "Local Storyboard Creator",
       "repo": "dipak5501/local-storyboard-java",
-      "url": "https://ruby-lean-ratios-archive.trycloudflare.com/a/local-storyboard/",
+      "url": "https://concerning-february-sbjct-hey.trycloudflare.com/a/local-storyboard/",
       "port": 8805,
       "lastFeature": "Enhance Local Storyboard Creator",
-      "updatedAt": "2026-11-17T22:47:29.363Z"
+      "updatedAt": "2026-11-18T08:48:14.013Z"
     },
     {
       "slug": "local-storyteller",
       "title": "Local Storyteller",
       "repo": "dipak5501/local-storyteller",
-      "url": "https://ruby-lean-ratios-archive.trycloudflare.com/a/local-storyteller/",
+      "url": "https://concerning-february-sbjct-hey.trycloudflare.com/a/local-storyteller/",
       "port": 8806,
       "lastFeature": null,
-      "updatedAt": "2026-11-17T22:47:29.375Z"
+      "updatedAt": "2026-11-18T08:48:14.028Z"
     },
     {
       "slug": "local-agent",
       "title": "Local Agent Management Utility",
       "repo": "dipak5501/local-agent-manager",
-      "url": "https://ruby-lean-ratios-archive.trycloudflare.com/a/local-agent/",
+      "url": "https://concerning-february-sbjct-hey.trycloudflare.com/a/local-agent/",
       "port": 8807,
       "lastFeature": "Enhance Local Agent Management Utility",
-      "updatedAt": "2026-11-17T22:47:29.387Z"
+      "updatedAt": "2026-11-18T08:48:14.041Z"
     },
     {
       "slug": "py-taskcoach",
       "title": "Task Coach for Local Task Management",
       "repo": "dipak5501/task-coach-py",
-      "url": "https://ruby-lean-ratios-archive.trycloudflare.com/a/py-taskcoach/",
+      "url": "https://concerning-february-sbjct-hey.trycloudflare.com/a/py-taskcoach/",
       "port": 8808,
       "lastFeature": null,
-      "updatedAt": "2026-11-17T22:47:29.391Z"
+      "updatedAt": "2026-11-18T08:48:14.056Z"
     },
     {
       "slug": "local-taskcoach",
       "title": "Local Task Management and Checklist Tool",
       "repo": null,
-      "url": "https://ruby-lean-ratios-archive.trycloudflare.com/a/local-taskcoach/",
+      "url": "https://concerning-february-sbjct-hey.trycloudflare.com/a/local-taskcoach/",
       "port": 8809,
       "lastFeature": "Enhance Local Task Management",
-      "updatedAt": "2026-11-17T22:47:29.394Z"
+      "updatedAt": "2026-11-18T08:48:14.071Z"
     }
   ]
 }

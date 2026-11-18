@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://ruby-lean-ratios-archive.trycloudflare.com/a/local-safety-watch/
+https://concerning-february-sbjct-hey.trycloudflare.com/a/local-safety-watch/
 
-[Click here to open](https://ruby-lean-ratios-archive.trycloudflare.com/a/local-safety-watch/)
+[Click here to open](https://concerning-february-sbjct-hey.trycloudflare.com/a/local-safety-watch/)
 
 - Local: http://127.0.0.1:8797/
 - Source: https://github.com/dipak5501/safety-watch
 - Last feature: Enhance Local Safety Watch with AI Verification
-- Link updated: 2026-11-17T22:47:29.152Z
+- Link updated: 2026-11-18T08:48:13.911Z
