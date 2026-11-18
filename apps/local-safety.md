@@ -8,5 +8,5 @@ https://ruby-lean-ratios-archive.trycloudflare.com/a/local-safety/
 
 - Local: http://127.0.0.1:8796/
 - Source: https://github.com/dipak5501/safety-hub
-- Last feature: Enhance Local Safety Hub with AI and IoT
+- Last feature: Enhance Local Safety Hub with AI and Community Features
 - Link updated: 2026-11-17T22:47:29.137Z
