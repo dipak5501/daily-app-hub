@@ -8,5 +8,5 @@ https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-security-che
 
 - Local: http://127.0.0.1:8803/
 - Source: https://github.com/dipak5501/java-desksec
-- Last feature: Enhancing Local Security Check Utility
+- Last feature: Enhance Local Security Check Utility
 - Link updated: 2026-11-20T00:05:48.398Z
