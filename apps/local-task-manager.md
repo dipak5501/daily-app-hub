@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/local-task-manager/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-task-manager/
 
-[Click here to open](https://concerning-february-sbjct-hey.trycloudflare.com/a/local-task-manager/)
+[Click here to open](https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-task-manager/)
 
 - Local: http://127.0.0.1:8804/
 - Source: https://github.com/dipak5501/local-task-manager
 - Last feature: —
-- Link updated: 2026-11-18T08:48:14.000Z
+- Link updated: 2026-11-20T00:05:48.409Z

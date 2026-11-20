@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/local-music/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-music/
 
-[Click here to open](https://concerning-february-sbjct-hey.trycloudflare.com/a/local-music/)
+[Click here to open](https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-music/)
 
 - Local: http://127.0.0.1:8790/
 - Source: https://github.com/dipak5501/local-music-explorer
 - Last feature: Enhance Local Music Explorer
-- Link updated: 2026-11-18T08:48:13.779Z
+- Link updated: 2026-11-20T00:05:48.150Z

@@ -1,95 +1,95 @@
 # Direct links
 
-Updated: 2026-11-19T22:17:40.466Z
+Updated: 2026-11-20T00:05:48.495Z
 
 ## ClearInstall
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/clearinstall/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/clearinstall/
 
 ## Code Snippet Clipper and Organizer
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/codeclip/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/codeclip/
 
 ## Local Wiki Explorer
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/local-wiki/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-wiki/
 
 ## Local Music Explorer
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/local-music/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-music/
 
 ## Local Crypto Tracker
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/local-crypto/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-crypto/
 
 ## Local Artists Directory
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/local-artists/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-artists/
 
 ## Code Cleaner
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/codecleaner/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/codecleaner/
 
 ## CleanMyDevice
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/cleanmydevice/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/cleanmydevice/
 
 ## Privacy Guard
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/privacy-guard/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/privacy-guard/
 
 ## Local Safety Hub
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/local-safety/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-safety/
 
 ## Local Safety Watch
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/local-safety-watch/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-safety-watch/
 
 ## Flashcard Builder for Language Learning
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/flashcard-builder/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/flashcard-builder/
 
 ## Local Event Finder
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/local-eventfinder/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-eventfinder/
 
 ## PyTaskBench
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/py-taskbench/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/py-taskbench/
 
 ## Java DeskList
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/java-desklist/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/java-desklist/
 
 ## Local Security Audit Tool
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/local-security-audit/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-security-audit/
 
 ## Local Security Check Utility
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/local-security-check/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-security-check/
 
 ## Local Task Manager
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/local-task-manager/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-task-manager/
 
 ## Local Storyboard Creator
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/local-storyboard/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-storyboard/
 
 ## Local Storyteller
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/local-storyteller/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-storyteller/
 
 ## Local Agent Management Utility
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/local-agent/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-agent/
 
 ## Task Coach for Local Task Management
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/py-taskcoach/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/py-taskcoach/
 
 ## Local Task Management and Checklist Tool
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/local-taskcoach/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-taskcoach/

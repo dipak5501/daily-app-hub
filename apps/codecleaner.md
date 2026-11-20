@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/codecleaner/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/codecleaner/
 
-[Click here to open](https://concerning-february-sbjct-hey.trycloudflare.com/a/codecleaner/)
+[Click here to open](https://paintball-cannon-eclipse-relative.trycloudflare.com/a/codecleaner/)
 
 - Local: http://127.0.0.1:8793/
 - Source: https://github.com/dipak5501/code-cleaner-app
 - Last feature: Enhance Code Cleaner
-- Link updated: 2026-11-18T08:48:13.808Z
+- Link updated: 2026-11-20T00:05:48.177Z

@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://concerning-february-sbjct-hey.trycloudflare.com/a/py-taskcoach/
+https://paintball-cannon-eclipse-relative.trycloudflare.com/a/py-taskcoach/
 
-[Click here to open](https://concerning-february-sbjct-hey.trycloudflare.com/a/py-taskcoach/)
+[Click here to open](https://paintball-cannon-eclipse-relative.trycloudflare.com/a/py-taskcoach/)
 
 - Local: http://127.0.0.1:8808/
 - Source: https://github.com/dipak5501/task-coach-py
 - Last feature: —
-- Link updated: 2026-11-18T08:48:14.056Z
+- Link updated: 2026-11-20T00:05:48.457Z
