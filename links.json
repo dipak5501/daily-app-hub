@@ -7,7 +7,7 @@
       "repo": "dipak5501/clearinstall",
       "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/clearinstall/",
       "port": 8787,
-      "lastFeature": "Enhance ClearInstall with Rust Integration",
+      "lastFeature": "Enhance ClearInstall with Public Trend Signals",
       "updatedAt": "2026-11-24T06:11:35.750Z"
     },
     {
@@ -25,7 +25,7 @@
       "repo": "dipak5501/localwiki-explorer",
       "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-wiki/",
       "port": 8789,
-      "lastFeature": "Enhance Local Wiki Explorer with Public Trend Signals",
+      "lastFeature": "Enhancing Local Wiki Explorer with Public Trend Signals",
       "updatedAt": "2026-11-24T06:11:35.772Z"
     },
     {
@@ -34,7 +34,7 @@
       "repo": "dipak5501/local-music-explorer",
       "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-music/",
       "port": 8790,
-      "lastFeature": "Enhance Local Music Explorer with Public Trend Signals",
+      "lastFeature": "Enhance Local Music Explorer",
       "updatedAt": "2026-11-24T06:11:35.781Z"
     },
     {
@@ -52,7 +52,7 @@
       "repo": "dipak5501/local-artists-directory",
       "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-artists/",
       "port": 8792,
-      "lastFeature": "Enhance Local Artists Directory with Public Trend Signals",
+      "lastFeature": "Enhance Local Artists Directory",
       "updatedAt": "2026-11-24T06:11:35.803Z"
     },
     {
@@ -61,7 +61,7 @@
       "repo": "dipak5501/code-cleaner-app",
       "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/codecleaner/",
       "port": 8793,
-      "lastFeature": "Enhance Code Cleaner with Public Trend Signals",
+      "lastFeature": "Enhance Code Cleaner",
       "updatedAt": "2026-11-24T06:11:35.821Z"
     },
     {
@@ -70,7 +70,7 @@
       "repo": "dipak5501/cleanmydevice-local",
       "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/cleanmydevice/",
       "port": 8794,
-      "lastFeature": "Optimize Device Performance with Rust",
+      "lastFeature": "Optimize Device Performance with Advanced Cleaning Tools",
       "updatedAt": "2026-11-24T06:11:35.867Z"
     },
     {
@@ -79,7 +79,7 @@
       "repo": "dipak5501/privacy-guard",
       "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/privacy-guard/",
       "port": 8795,
-      "lastFeature": "Enhance Privacy Guard with Rust",
+      "lastFeature": "Enhance Privacy Guard with Public Trend Signals",
       "updatedAt": "2026-11-24T06:11:35.888Z"
     },
     {
@@ -97,7 +97,7 @@
       "repo": "dipak5501/safety-watch",
       "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-safety-watch/",
       "port": 8797,
-      "lastFeature": "Enhancing Local Safety Watch with Public Trend Signals",
+      "lastFeature": "Enhance Local Safety Watch with Public Trend Signals",
       "updatedAt": "2026-11-24T06:11:35.916Z"
     },
     {
@@ -106,7 +106,7 @@
       "repo": "dipak5501/lang-flashcards",
       "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/flashcard-builder/",
       "port": 8798,
-      "lastFeature": "Enhance Flashcard Builder with Rust",
+      "lastFeature": "Enhance Flashcard Builder for Language Learning",
       "updatedAt": "2026-11-24T06:11:35.937Z"
     },
     {
@@ -151,7 +151,7 @@
       "repo": "dipak5501/java-desksec",
       "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-security-check/",
       "port": 8803,
-      "lastFeature": "Enhance Local Security Check Utility",
+      "lastFeature": "Enhance Local Security Check Utility with Public Trend Signals",
       "updatedAt": "2026-11-24T06:11:36.029Z"
     },
     {
@@ -187,7 +187,7 @@
       "repo": "dipak5501/local-agent-manager",
       "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-agent/",
       "port": 8807,
-      "lastFeature": "Enhancing Local Agent Management Utility",
+      "lastFeature": "Enhance Local Agent Management Utility",
       "updatedAt": "2026-11-24T06:11:36.080Z"
     },
     {
@@ -205,7 +205,7 @@
       "repo": null,
       "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-taskcoach/",
       "port": 8809,
-      "lastFeature": "Enhance Local Task Management Tool",
+      "lastFeature": "Enhancements for Local Task Management Tool",
       "updatedAt": "2026-11-24T06:11:36.171Z"
     }
   ]
