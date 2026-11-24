@@ -8,5 +8,5 @@ https://restore-cats-mobiles-decide.trycloudflare.com/a/codecleaner/
 
 - Local: http://127.0.0.1:8793/
 - Source: https://github.com/dipak5501/code-cleaner-app
-- Last feature: Enhance Code Cleaner with AI Optimization
+- Last feature: Enhance Code Cleaner with AI-Powered Features
 - Link updated: 2026-11-24T00:06:04.682Z
