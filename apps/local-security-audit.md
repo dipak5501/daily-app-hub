@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-security-audit/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/local-security-audit/
 
-[Click here to open](https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-security-audit/)
+[Click here to open](https://restore-cats-mobiles-decide.trycloudflare.com/a/local-security-audit/)
 
 - Local: http://127.0.0.1:8802/
 - Source: https://github.com/dipak5501/sec-audit-tool
 - Last feature: —
-- Link updated: 2026-11-20T00:05:48.383Z
+- Link updated: 2026-11-24T00:06:04.897Z

@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/clearinstall/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/clearinstall/
 
-[Click here to open](https://paintball-cannon-eclipse-relative.trycloudflare.com/a/clearinstall/)
+[Click here to open](https://restore-cats-mobiles-decide.trycloudflare.com/a/clearinstall/)
 
 - Local: http://127.0.0.1:8787/
 - Source: https://github.com/dipak5501/clearinstall
 - Last feature: Enhance ClearInstall with Rust and Telemetry
-- Link updated: 2026-11-20T00:05:48.121Z
+- Link updated: 2026-11-24T00:06:04.624Z

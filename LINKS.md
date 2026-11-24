@@ -1,95 +1,95 @@
 # Direct links
 
-Updated: 2026-11-23T22:40:41.061Z
+Updated: 2026-11-24T00:06:05.080Z
 
 ## ClearInstall
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/clearinstall/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/clearinstall/
 
 ## Code Snippet Clipper and Organizer
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/codeclip/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/codeclip/
 
 ## Local Wiki Explorer
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-wiki/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/local-wiki/
 
 ## Local Music Explorer
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-music/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/local-music/
 
 ## Local Crypto Tracker
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-crypto/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/local-crypto/
 
 ## Local Artists Directory
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-artists/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/local-artists/
 
 ## Code Cleaner
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/codecleaner/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/codecleaner/
 
 ## CleanMyDevice
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/cleanmydevice/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/cleanmydevice/
 
 ## Privacy Guard
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/privacy-guard/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/privacy-guard/
 
 ## Local Safety Hub
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-safety/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/local-safety/
 
 ## Local Safety Watch
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-safety-watch/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/local-safety-watch/
 
 ## Flashcard Builder for Language Learning
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/flashcard-builder/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/flashcard-builder/
 
 ## Local Event Finder
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-eventfinder/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/local-eventfinder/
 
 ## PyTaskBench
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/py-taskbench/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/py-taskbench/
 
 ## Java DeskList
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/java-desklist/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/java-desklist/
 
 ## Local Security Audit Tool
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-security-audit/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/local-security-audit/
 
 ## Local Security Check Utility
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-security-check/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/local-security-check/
 
 ## Local Task Manager
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-task-manager/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/local-task-manager/
 
 ## Local Storyboard Creator
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-storyboard/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/local-storyboard/
 
 ## Local Storyteller
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-storyteller/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/local-storyteller/
 
 ## Local Agent Management Utility
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-agent/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/local-agent/
 
 ## Task Coach for Local Task Management
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/py-taskcoach/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/py-taskcoach/
 
 ## Local Task Management and Checklist Tool
 
-https://paintball-cannon-eclipse-relative.trycloudflare.com/a/local-taskcoach/
+https://restore-cats-mobiles-decide.trycloudflare.com/a/local-taskcoach/
