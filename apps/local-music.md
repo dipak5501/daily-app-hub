@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://restore-cats-mobiles-decide.trycloudflare.com/a/local-music/
+https://broadway-probability-prot-mike.trycloudflare.com/a/local-music/
 
-[Click here to open](https://restore-cats-mobiles-decide.trycloudflare.com/a/local-music/)
+[Click here to open](https://broadway-probability-prot-mike.trycloudflare.com/a/local-music/)
 
 - Local: http://127.0.0.1:8790/
 - Source: https://github.com/dipak5501/local-music-explorer
 - Last feature: Enhance Local Music Explorer
-- Link updated: 2026-11-24T00:06:04.654Z
+- Link updated: 2026-11-24T06:11:35.781Z

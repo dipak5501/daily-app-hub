@@ -1,212 +1,212 @@
 {
-  "updatedAt": "2026-11-24T00:06:05.051Z",
+  "updatedAt": "2026-11-24T06:11:36.175Z",
   "apps": [
     {
       "slug": "clearinstall",
       "title": "ClearInstall",
       "repo": "dipak5501/clearinstall",
-      "url": "https://restore-cats-mobiles-decide.trycloudflare.com/a/clearinstall/",
+      "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/clearinstall/",
       "port": 8787,
       "lastFeature": "Enhance ClearInstall with Real-Time Dependency Risk Analysis",
-      "updatedAt": "2026-11-24T00:06:04.624Z"
+      "updatedAt": "2026-11-24T06:11:35.750Z"
     },
     {
       "slug": "codeclip",
       "title": "Code Snippet Clipper and Organizer",
       "repo": "dipak5501/codeclip-app",
-      "url": "https://restore-cats-mobiles-decide.trycloudflare.com/a/codeclip/",
+      "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/codeclip/",
       "port": 8788,
       "lastFeature": "Enhance CodeClip with AI and Automation",
-      "updatedAt": "2026-11-24T00:06:04.635Z"
+      "updatedAt": "2026-11-24T06:11:35.761Z"
     },
     {
       "slug": "local-wiki",
       "title": "Local Wiki Explorer",
       "repo": "dipak5501/localwiki-explorer",
-      "url": "https://restore-cats-mobiles-decide.trycloudflare.com/a/local-wiki/",
+      "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-wiki/",
       "port": 8789,
       "lastFeature": "Enhancing Local Wiki Explorer with Public Trend Signals",
-      "updatedAt": "2026-11-24T00:06:04.644Z"
+      "updatedAt": "2026-11-24T06:11:35.772Z"
     },
     {
       "slug": "local-music",
       "title": "Local Music Explorer",
       "repo": "dipak5501/local-music-explorer",
-      "url": "https://restore-cats-mobiles-decide.trycloudflare.com/a/local-music/",
+      "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-music/",
       "port": 8790,
       "lastFeature": "Enhance Local Music Explorer",
-      "updatedAt": "2026-11-24T00:06:04.654Z"
+      "updatedAt": "2026-11-24T06:11:35.781Z"
     },
     {
       "slug": "local-crypto",
       "title": "Local Crypto Tracker",
       "repo": "dipak5501/crypto-tracker-local",
-      "url": "https://restore-cats-mobiles-decide.trycloudflare.com/a/local-crypto/",
+      "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-crypto/",
       "port": 8791,
       "lastFeature": "Enhance Local Crypto Tracker with Public Trend Signals",
-      "updatedAt": "2026-11-24T00:06:04.663Z"
+      "updatedAt": "2026-11-24T06:11:35.791Z"
     },
     {
       "slug": "local-artists",
       "title": "Local Artists Directory",
       "repo": "dipak5501/local-artists-directory",
-      "url": "https://restore-cats-mobiles-decide.trycloudflare.com/a/local-artists/",
+      "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-artists/",
       "port": 8792,
       "lastFeature": "Enhance Local Artists Directory with Public Trend Signals",
-      "updatedAt": "2026-11-24T00:06:04.672Z"
+      "updatedAt": "2026-11-24T06:11:35.803Z"
     },
     {
       "slug": "codecleaner",
       "title": "Code Cleaner",
       "repo": "dipak5501/code-cleaner-app",
-      "url": "https://restore-cats-mobiles-decide.trycloudflare.com/a/codecleaner/",
+      "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/codecleaner/",
       "port": 8793,
       "lastFeature": "Optimize Code Snippets with Advanced Tools",
-      "updatedAt": "2026-11-24T00:06:04.682Z"
+      "updatedAt": "2026-11-24T06:11:35.821Z"
     },
     {
       "slug": "cleanmydevice",
       "title": "CleanMyDevice",
       "repo": "dipak5501/cleanmydevice-local",
-      "url": "https://restore-cats-mobiles-decide.trycloudflare.com/a/cleanmydevice/",
+      "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/cleanmydevice/",
       "port": 8794,
       "lastFeature": "Enhance CleanMyDevice with Rust",
-      "updatedAt": "2026-11-24T00:06:04.691Z"
+      "updatedAt": "2026-11-24T06:11:35.867Z"
     },
     {
       "slug": "privacy-guard",
       "title": "Privacy Guard",
       "repo": "dipak5501/privacy-guard",
-      "url": "https://restore-cats-mobiles-decide.trycloudflare.com/a/privacy-guard/",
+      "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/privacy-guard/",
       "port": 8795,
       "lastFeature": "Enhance Privacy Guard with Cutting-Edge Features",
-      "updatedAt": "2026-11-24T00:06:04.706Z"
+      "updatedAt": "2026-11-24T06:11:35.888Z"
     },
     {
       "slug": "local-safety",
       "title": "Local Safety Hub",
       "repo": "dipak5501/safety-hub",
-      "url": "https://restore-cats-mobiles-decide.trycloudflare.com/a/local-safety/",
+      "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-safety/",
       "port": 8796,
       "lastFeature": "Enhance Local Safety Hub with AI and Community Engagement",
-      "updatedAt": "2026-11-24T00:06:04.742Z"
+      "updatedAt": "2026-11-24T06:11:35.900Z"
     },
     {
       "slug": "local-safety-watch",
       "title": "Local Safety Watch",
       "repo": "dipak5501/safety-watch",
-      "url": "https://restore-cats-mobiles-decide.trycloudflare.com/a/local-safety-watch/",
+      "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-safety-watch/",
       "port": 8797,
       "lastFeature": "Enhancing Local Safety Watch with Cutting-Edge Technologies",
-      "updatedAt": "2026-11-24T00:06:04.822Z"
+      "updatedAt": "2026-11-24T06:11:35.916Z"
     },
     {
       "slug": "flashcard-builder",
       "title": "Flashcard Builder for Language Learning",
       "repo": "dipak5501/lang-flashcards",
-      "url": "https://restore-cats-mobiles-decide.trycloudflare.com/a/flashcard-builder/",
+      "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/flashcard-builder/",
       "port": 8798,
       "lastFeature": "Enhance Flashcard Builder with AI-Powered Features",
-      "updatedAt": "2026-11-24T00:06:04.837Z"
+      "updatedAt": "2026-11-24T06:11:35.937Z"
     },
     {
       "slug": "local-eventfinder",
       "title": "Local Event Finder",
       "repo": "dipak5501/event-finder-local",
-      "url": "https://restore-cats-mobiles-decide.trycloudflare.com/a/local-eventfinder/",
+      "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-eventfinder/",
       "port": 8799,
       "lastFeature": "Enhance Local Event Finder",
-      "updatedAt": "2026-11-24T00:06:04.855Z"
+      "updatedAt": "2026-11-24T06:11:35.990Z"
     },
     {
       "slug": "py-taskbench",
       "title": "PyTaskBench",
       "repo": null,
-      "url": "https://restore-cats-mobiles-decide.trycloudflare.com/a/py-taskbench/",
+      "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/py-taskbench/",
       "port": 8800,
       "lastFeature": null,
-      "updatedAt": "2026-11-24T00:06:04.859Z"
+      "updatedAt": "2026-11-24T06:11:35.994Z"
     },
     {
       "slug": "java-desklist",
       "title": "Java DeskList",
       "repo": "dipak5501/java-desklist",
-      "url": "https://restore-cats-mobiles-decide.trycloudflare.com/a/java-desklist/",
+      "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/java-desklist/",
       "port": 8801,
       "lastFeature": "Improvements for Java DeskList",
-      "updatedAt": "2026-11-24T00:06:04.882Z"
+      "updatedAt": "2026-11-24T06:11:36.006Z"
     },
     {
       "slug": "local-security-audit",
       "title": "Local Security Audit Tool",
       "repo": "dipak5501/sec-audit-tool",
-      "url": "https://restore-cats-mobiles-decide.trycloudflare.com/a/local-security-audit/",
+      "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-security-audit/",
       "port": 8802,
       "lastFeature": null,
-      "updatedAt": "2026-11-24T00:06:04.897Z"
+      "updatedAt": "2026-11-24T06:11:36.017Z"
     },
     {
       "slug": "local-security-check",
       "title": "Local Security Check Utility",
       "repo": "dipak5501/java-desksec",
-      "url": "https://restore-cats-mobiles-decide.trycloudflare.com/a/local-security-check/",
+      "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-security-check/",
       "port": 8803,
       "lastFeature": "Enhance Local Security Check Utility",
-      "updatedAt": "2026-11-24T00:06:04.909Z"
+      "updatedAt": "2026-11-24T06:11:36.029Z"
     },
     {
       "slug": "local-task-manager",
       "title": "Local Task Manager",
       "repo": "dipak5501/local-task-manager",
-      "url": "https://restore-cats-mobiles-decide.trycloudflare.com/a/local-task-manager/",
+      "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-task-manager/",
       "port": 8804,
       "lastFeature": null,
-      "updatedAt": "2026-11-24T00:06:04.921Z"
+      "updatedAt": "2026-11-24T06:11:36.041Z"
     },
     {
       "slug": "local-storyboard",
       "title": "Local Storyboard Creator",
       "repo": "dipak5501/local-storyboard-java",
-      "url": "https://restore-cats-mobiles-decide.trycloudflare.com/a/local-storyboard/",
+      "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-storyboard/",
       "port": 8805,
       "lastFeature": "Enhancements for Local Storyboard Creator",
-      "updatedAt": "2026-11-24T00:06:04.932Z"
+      "updatedAt": "2026-11-24T06:11:36.052Z"
     },
     {
       "slug": "local-storyteller",
       "title": "Local Storyteller",
       "repo": "dipak5501/local-storyteller",
-      "url": "https://restore-cats-mobiles-decide.trycloudflare.com/a/local-storyteller/",
+      "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-storyteller/",
       "port": 8806,
       "lastFeature": null,
-      "updatedAt": "2026-11-24T00:06:04.944Z"
+      "updatedAt": "2026-11-24T06:11:36.063Z"
     },
     {
       "slug": "local-agent",
       "title": "Local Agent Management Utility",
       "repo": "dipak5501/local-agent-manager",
-      "url": "https://restore-cats-mobiles-decide.trycloudflare.com/a/local-agent/",
+      "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-agent/",
       "port": 8807,
       "lastFeature": "Enhance Local Agent Management Utility",
-      "updatedAt": "2026-11-24T00:06:04.956Z"
+      "updatedAt": "2026-11-24T06:11:36.080Z"
     },
     {
       "slug": "py-taskcoach",
       "title": "Task Coach for Local Task Management",
       "repo": "dipak5501/task-coach-py",
-      "url": "https://restore-cats-mobiles-decide.trycloudflare.com/a/py-taskcoach/",
+      "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/py-taskcoach/",
       "port": 8808,
       "lastFeature": null,
-      "updatedAt": "2026-11-24T00:06:04.984Z"
+      "updatedAt": "2026-11-24T06:11:36.158Z"
     },
     {
       "slug": "local-taskcoach",
       "title": "Local Task Management and Checklist Tool",
       "repo": null,
-      "url": "https://restore-cats-mobiles-decide.trycloudflare.com/a/local-taskcoach/",
+      "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-taskcoach/",
       "port": 8809,
       "lastFeature": "Enhance Local Task Management",
-      "updatedAt": "2026-11-24T00:06:05.041Z"
+      "updatedAt": "2026-11-24T06:11:36.171Z"
     }
   ]
 }
