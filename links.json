@@ -25,7 +25,7 @@
       "repo": "dipak5501/localwiki-explorer",
       "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-wiki/",
       "port": 8789,
-      "lastFeature": "Enhance Local Wiki Explorer with Public Trend Signals",
+      "lastFeature": "Enhance Local Wiki Explorer",
       "updatedAt": "2026-11-24T06:11:35.772Z"
     },
     {
@@ -43,7 +43,7 @@
       "repo": "dipak5501/crypto-tracker-local",
       "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-crypto/",
       "port": 8791,
-      "lastFeature": "Local Crypto Tracker Enhancements",
+      "lastFeature": "Enhance Local Crypto Tracker with Public Trend Signals",
       "updatedAt": "2026-11-24T06:11:35.791Z"
     },
     {
@@ -61,7 +61,7 @@
       "repo": "dipak5501/code-cleaner-app",
       "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/codecleaner/",
       "port": 8793,
-      "lastFeature": "Optimize Code Cleaner with Public Trend Signals",
+      "lastFeature": "Enhance Code Cleaner",
       "updatedAt": "2026-11-24T06:11:35.821Z"
     },
     {
@@ -70,7 +70,7 @@
       "repo": "dipak5501/cleanmydevice-local",
       "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/cleanmydevice/",
       "port": 8794,
-      "lastFeature": "Optimize Device Performance with New Features",
+      "lastFeature": "Enhance CleanMyDevice with Public Trend Signals",
       "updatedAt": "2026-11-24T06:11:35.867Z"
     },
     {
@@ -79,7 +79,7 @@
       "repo": "dipak5501/privacy-guard",
       "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/privacy-guard/",
       "port": 8795,
-      "lastFeature": "Enhance Privacy Guard with Cutting-Edge Features",
+      "lastFeature": "Enhance Privacy Guard",
       "updatedAt": "2026-11-24T06:11:35.888Z"
     },
     {
@@ -97,7 +97,7 @@
       "repo": "dipak5501/safety-watch",
       "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-safety-watch/",
       "port": 8797,
-      "lastFeature": "Enhance Local Safety Watch with Public Trend Signals",
+      "lastFeature": "Enhance Local Safety Watch with Community Feedback",
       "updatedAt": "2026-11-24T06:11:35.916Z"
     },
     {
@@ -106,7 +106,7 @@
       "repo": "dipak5501/lang-flashcards",
       "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/flashcard-builder/",
       "port": 8798,
-      "lastFeature": "Enhance Flashcard Builder with Modern Features",
+      "lastFeature": "Enhance Flashcard Builder for Language Learning",
       "updatedAt": "2026-11-24T06:11:35.937Z"
     },
     {
@@ -187,7 +187,7 @@
       "repo": "dipak5501/local-agent-manager",
       "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-agent/",
       "port": 8807,
-      "lastFeature": "Enhance Local-Agent Management Utility",
+      "lastFeature": "Enhancing Local-Agent with Rust and Performance Optimization",
       "updatedAt": "2026-11-24T06:11:36.080Z"
     },
     {
@@ -205,7 +205,7 @@
       "repo": null,
       "url": "https://broadway-probability-prot-mike.trycloudflare.com/a/local-taskcoach/",
       "port": 8809,
-      "lastFeature": "Enhancements for Local Task Management Tool",
+      "lastFeature": "Enhance Local Task Management Tool",
       "updatedAt": "2026-11-24T06:11:36.171Z"
     }
   ]
