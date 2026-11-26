@@ -8,5 +8,5 @@ https://broadway-probability-prot-mike.trycloudflare.com/a/codecleaner/
 
 - Local: http://127.0.0.1:8793/
 - Source: https://github.com/dipak5501/code-cleaner-app
-- Last feature: Enhancements for Code Cleaner
+- Last feature: Enhance Code Cleaner
 - Link updated: 2026-11-24T06:11:35.821Z
