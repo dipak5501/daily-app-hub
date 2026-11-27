@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://understood-ignored-males-blocking.trycloudflare.com/a/local-taskcoach/
+https://butler-buyer-football-consortium.trycloudflare.com/a/local-taskcoach/
 
-[Click here to open](https://understood-ignored-males-blocking.trycloudflare.com/a/local-taskcoach/)
+[Click here to open](https://butler-buyer-football-consortium.trycloudflare.com/a/local-taskcoach/)
 
 - Local: http://127.0.0.1:8809/
 - Source: —
 - Last feature: Enhance Local Task Management
-- Link updated: 2026-11-27T06:16:05.002Z
+- Link updated: 2026-11-27T14:50:38.539Z
