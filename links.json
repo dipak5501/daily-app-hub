@@ -43,7 +43,7 @@
       "repo": "dipak5501/crypto-tracker-local",
       "url": "https://butler-buyer-football-consortium.trycloudflare.com/a/local-crypto/",
       "port": 8791,
-      "lastFeature": "Local Crypto Tracker Enhancements",
+      "lastFeature": "Local Crypto Tracker Improvements",
       "updatedAt": "2026-11-27T14:50:38.105Z"
     },
     {
@@ -52,7 +52,7 @@
       "repo": "dipak5501/local-artists-directory",
       "url": "https://butler-buyer-football-consortium.trycloudflare.com/a/local-artists/",
       "port": 8792,
-      "lastFeature": "Enhance Local Artists Directory",
+      "lastFeature": "Enhance Local Artists Directory with Public Trend Signals",
       "updatedAt": "2026-11-27T14:50:38.119Z"
     },
     {
@@ -61,7 +61,7 @@
       "repo": "dipak5501/code-cleaner-app",
       "url": "https://butler-buyer-football-consortium.trycloudflare.com/a/codecleaner/",
       "port": 8793,
-      "lastFeature": "Enhance Code Cleaner with Public Trend Signals",
+      "lastFeature": "Enhancing Code Cleaner",
       "updatedAt": "2026-11-27T14:50:38.132Z"
     },
     {
@@ -70,7 +70,7 @@
       "repo": "dipak5501/cleanmydevice-local",
       "url": "https://butler-buyer-football-consortium.trycloudflare.com/a/cleanmydevice/",
       "port": 8794,
-      "lastFeature": "Enhance CleanMyDevice with Rust",
+      "lastFeature": "Enhance CleanMyDevice with Public Trend Signals",
       "updatedAt": "2026-11-27T14:50:38.145Z"
     },
     {
@@ -79,7 +79,7 @@
       "repo": "dipak5501/privacy-guard",
       "url": "https://butler-buyer-football-consortium.trycloudflare.com/a/privacy-guard/",
       "port": 8795,
-      "lastFeature": "Enhance Privacy Guard with Real-Time Monitoring and Alerting Features",
+      "lastFeature": "Enhance Privacy Guard with Rust",
       "updatedAt": "2026-11-27T14:50:38.163Z"
     },
     {
@@ -88,7 +88,7 @@
       "repo": "dipak5501/safety-hub",
       "url": "https://butler-buyer-football-consortium.trycloudflare.com/a/local-safety/",
       "port": 8796,
-      "lastFeature": "Local Safety Hub Enhancements",
+      "lastFeature": "Enhancing Local Safety Hub with Public Trend Signals",
       "updatedAt": "2026-11-27T14:50:38.176Z"
     },
     {
@@ -97,7 +97,7 @@
       "repo": "dipak5501/safety-watch",
       "url": "https://butler-buyer-football-consortium.trycloudflare.com/a/local-safety-watch/",
       "port": 8797,
-      "lastFeature": "Enhance Local Safety Watch with Community Feedback",
+      "lastFeature": "Enhancing Local Safety Watch with Public Trend Signals",
       "updatedAt": "2026-11-27T14:50:38.189Z"
     },
     {
@@ -115,7 +115,7 @@
       "repo": "dipak5501/event-finder-local",
       "url": "https://butler-buyer-football-consortium.trycloudflare.com/a/local-eventfinder/",
       "port": 8799,
-      "lastFeature": "Enhance Local Event Finder with Public Trend Signals",
+      "lastFeature": "Enhance Local Event Finder",
       "updatedAt": "2026-11-27T14:50:38.275Z"
     },
     {
@@ -151,7 +151,7 @@
       "repo": "dipak5501/java-desksec",
       "url": "https://butler-buyer-football-consortium.trycloudflare.com/a/local-security-check/",
       "port": 8803,
-      "lastFeature": "Enhancements for Local Security Check Utility",
+      "lastFeature": "Enhancing Local Security Check Utility",
       "updatedAt": "2026-11-27T14:50:38.346Z"
     },
     {
@@ -169,7 +169,7 @@
       "repo": "dipak5501/local-storyboard-java",
       "url": "https://butler-buyer-football-consortium.trycloudflare.com/a/local-storyboard/",
       "port": 8805,
-      "lastFeature": "Enhancements for Local Storyboard Creator",
+      "lastFeature": "Enhance Local Storyboard Creator",
       "updatedAt": "2026-11-27T14:50:38.380Z"
     },
     {
@@ -187,7 +187,7 @@
       "repo": "dipak5501/local-agent-manager",
       "url": "https://butler-buyer-football-consortium.trycloudflare.com/a/local-agent/",
       "port": 8807,
-      "lastFeature": "Enhancing Local Agent Management Utility",
+      "lastFeature": "Enhancing Local-Agent Management Utility",
       "updatedAt": "2026-11-27T14:50:38.455Z"
     },
     {
@@ -205,7 +205,7 @@
       "repo": null,
       "url": "https://butler-buyer-football-consortium.trycloudflare.com/a/local-taskcoach/",
       "port": 8809,
-      "lastFeature": "Enhance Local Task Management Tool",
+      "lastFeature": "Enhance Local Task Management",
       "updatedAt": "2026-11-27T14:50:38.539Z"
     }
   ]
