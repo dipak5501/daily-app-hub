@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://contractor-shopping-clinics-browser.trycloudflare.com/a/local-crypto/
+https://understood-ignored-males-blocking.trycloudflare.com/a/local-crypto/
 
-[Click here to open](https://contractor-shopping-clinics-browser.trycloudflare.com/a/local-crypto/)
+[Click here to open](https://understood-ignored-males-blocking.trycloudflare.com/a/local-crypto/)
 
 - Local: http://127.0.0.1:8791/
 - Source: https://github.com/dipak5501/crypto-tracker-local
 - Last feature: Local Crypto Tracker Enhancements
-- Link updated: 2026-11-26T13:49:34.615Z
+- Link updated: 2026-11-27T06:16:04.700Z
