@@ -8,5 +8,5 @@ https://contractor-shopping-clinics-browser.trycloudflare.com/a/local-safety/
 
 - Local: http://127.0.0.1:8796/
 - Source: https://github.com/dipak5501/safety-hub
-- Last feature: Enhancing Local Safety Hub with Public Trend Signals
+- Last feature: Enhance Local Safety Hub with Community Watch Tools
 - Link updated: 2026-11-26T13:49:34.696Z
