@@ -1,95 +1,95 @@
 # Direct links
 
-Updated: 2026-11-27T22:59:34.881Z
+Updated: 2026-11-28T00:10:15.323Z
 
 ## ClearInstall
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/clearinstall/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/clearinstall/
 
 ## Code Snippet Clipper and Organizer
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/codeclip/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/codeclip/
 
 ## Local Wiki Explorer
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/local-wiki/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/local-wiki/
 
 ## Local Music Explorer
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/local-music/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/local-music/
 
 ## Local Crypto Tracker
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/local-crypto/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/local-crypto/
 
 ## Local Artists Directory
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/local-artists/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/local-artists/
 
 ## Code Cleaner
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/codecleaner/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/codecleaner/
 
 ## CleanMyDevice
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/cleanmydevice/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/cleanmydevice/
 
 ## Privacy Guard
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/privacy-guard/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/privacy-guard/
 
 ## Local Safety Hub
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/local-safety/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/local-safety/
 
 ## Local Safety Watch
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/local-safety-watch/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/local-safety-watch/
 
 ## Flashcard Builder for Language Learning
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/flashcard-builder/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/flashcard-builder/
 
 ## Local Event Finder
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/local-eventfinder/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/local-eventfinder/
 
 ## PyTaskBench
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/py-taskbench/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/py-taskbench/
 
 ## Java DeskList
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/java-desklist/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/java-desklist/
 
 ## Local Security Audit Tool
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/local-security-audit/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/local-security-audit/
 
 ## Local Security Check Utility
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/local-security-check/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/local-security-check/
 
 ## Local Task Manager
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/local-task-manager/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/local-task-manager/
 
 ## Local Storyboard Creator
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/local-storyboard/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/local-storyboard/
 
 ## Local Storyteller
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/local-storyteller/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/local-storyteller/
 
 ## Local Agent Management Utility
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/local-agent/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/local-agent/
 
 ## Task Coach for Local Task Management
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/py-taskcoach/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/py-taskcoach/
 
 ## Local Task Management and Checklist Tool
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/local-taskcoach/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/local-taskcoach/

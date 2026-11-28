@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/local-storyteller/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/local-storyteller/
 
-[Click here to open](https://butler-buyer-football-consortium.trycloudflare.com/a/local-storyteller/)
+[Click here to open](https://arrive-accuracy-plenty-cope.trycloudflare.com/a/local-storyteller/)
 
 - Local: http://127.0.0.1:8806/
 - Source: https://github.com/dipak5501/local-storyteller
 - Last feature: —
-- Link updated: 2026-11-27T14:50:38.396Z
+- Link updated: 2026-11-28T00:10:15.208Z

@@ -2,11 +2,11 @@
 
 ## Open this app
 
-https://butler-buyer-football-consortium.trycloudflare.com/a/java-desklist/
+https://arrive-accuracy-plenty-cope.trycloudflare.com/a/java-desklist/
 
-[Click here to open](https://butler-buyer-football-consortium.trycloudflare.com/a/java-desklist/)
+[Click here to open](https://arrive-accuracy-plenty-cope.trycloudflare.com/a/java-desklist/)
 
 - Local: http://127.0.0.1:8801/
 - Source: https://github.com/dipak5501/java-desklist
 - Last feature: Improvements for Java DeskList
-- Link updated: 2026-11-27T14:50:38.308Z
+- Link updated: 2026-11-28T00:10:15.135Z
