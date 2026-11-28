@@ -25,7 +25,7 @@
       "repo": "dipak5501/localwiki-explorer",
       "url": "https://arrive-accuracy-plenty-cope.trycloudflare.com/a/local-wiki/",
       "port": 8789,
-      "lastFeature": "Enhance Local Wiki Explorer with Public Trend Signals",
+      "lastFeature": "Enhancements for Local Wiki Explorer",
       "updatedAt": "2026-11-28T00:10:14.954Z"
     },
     {
@@ -43,7 +43,7 @@
       "repo": "dipak5501/crypto-tracker-local",
       "url": "https://arrive-accuracy-plenty-cope.trycloudflare.com/a/local-crypto/",
       "port": 8791,
-      "lastFeature": "Enhance Local Crypto Tracker with Public Trend Signals",
+      "lastFeature": "Local Crypto Tracker Enhancements",
       "updatedAt": "2026-11-28T00:10:14.972Z"
     },
     {
@@ -61,7 +61,7 @@
       "repo": "dipak5501/code-cleaner-app",
       "url": "https://arrive-accuracy-plenty-cope.trycloudflare.com/a/codecleaner/",
       "port": 8793,
-      "lastFeature": "Enhance Code Cleaner",
+      "lastFeature": "Enhance Code Cleaner with Trend Signals",
       "updatedAt": "2026-11-28T00:10:14.990Z"
     },
     {
@@ -70,7 +70,7 @@
       "repo": "dipak5501/cleanmydevice-local",
       "url": "https://arrive-accuracy-plenty-cope.trycloudflare.com/a/cleanmydevice/",
       "port": 8794,
-      "lastFeature": "Enhance CleanMyDevice with Rust",
+      "lastFeature": "Optimize CleanMyDevice with Public Trend Signals",
       "updatedAt": "2026-11-28T00:10:15.003Z"
     },
     {
@@ -88,7 +88,7 @@
       "repo": "dipak5501/safety-hub",
       "url": "https://arrive-accuracy-plenty-cope.trycloudflare.com/a/local-safety/",
       "port": 8796,
-      "lastFeature": "Enhancing Local Safety Hub with Public Trend Signals",
+      "lastFeature": "Enhance Local Safety Hub with Community Engagement Tools",
       "updatedAt": "2026-11-28T00:10:15.026Z"
     },
     {
@@ -97,7 +97,7 @@
       "repo": "dipak5501/safety-watch",
       "url": "https://arrive-accuracy-plenty-cope.trycloudflare.com/a/local-safety-watch/",
       "port": 8797,
-      "lastFeature": "Enhancing Local Safety Watch with Public Trend Signals",
+      "lastFeature": "Enhance Local Safety Watch with Public Trend Signals",
       "updatedAt": "2026-11-28T00:10:15.039Z"
     },
     {
@@ -133,7 +133,7 @@
       "repo": "dipak5501/java-desklist",
       "url": "https://arrive-accuracy-plenty-cope.trycloudflare.com/a/java-desklist/",
       "port": 8801,
-      "lastFeature": "Improving Java DeskList with Public Trend Signals",
+      "lastFeature": "Improvements for Java DeskList",
       "updatedAt": "2026-11-28T00:10:15.135Z"
     },
     {
@@ -205,7 +205,7 @@
       "repo": null,
       "url": "https://arrive-accuracy-plenty-cope.trycloudflare.com/a/local-taskcoach/",
       "port": 8809,
-      "lastFeature": "Enhancements for Local Task Management Tool",
+      "lastFeature": "Enhance Local Task Management",
       "updatedAt": "2026-11-28T00:10:15.247Z"
     }
   ]
